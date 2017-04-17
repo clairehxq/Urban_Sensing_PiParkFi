@@ -1,0 +1,2869 @@
+Kismet (http://www.kismetwireless.net)
+Sun Apr 16 23:06:55 2017 - Kismet 2016.07.R1
+-----------------
+
+Network 1: BSSID 00:00:00:00:00:00
+ Manuf      : Unknown
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : ad-hoc
+ BSSID      : 00:00:00:00:00:00
+ Channel    : 0
+ Frequency  : 2437 - 126 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 0
+ Data       : 126
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 126
+ Datasize   : 4284
+ Last BSSTS : Apr 16 23:11:55
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 126 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC 00:00:00:00:00:00
+  Manuf      : Unknown
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : Ad-hoc
+  MAC        : 00:00:00:00:00:00
+  Channel    : 0
+  Frequency  : 2437 - 126 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 126
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 126
+  Datasize   : 4284
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 126 packets
+               Sun Apr 16 23:11:55 2017
+Network 2: BSSID 00:04:4B:2F:66:A2
+ Manuf      : Nvidia
+ First      : Sun Apr 16 23:07:24 2017
+ Last       : Sun Apr 16 23:11:50 2017
+ Type       : probe
+ BSSID      : 00:04:4B:2F:66:A2
+ Channel    : 0
+ Frequency  : 2437 - 41 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 41
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 41
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:11:50
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 41 packets
+              Sun Apr 16 23:11:50 2017
+ Client 1: MAC 00:04:4B:2F:66:A2
+  Manuf      : Nvidia
+  First      : Sun Apr 16 23:07:24 2017
+  Last       : Sun Apr 16 23:11:50 2017
+  Type       : To Distribution
+  MAC        : 00:04:4B:2F:66:A2
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Sun Apr 16 23:10:47 2017
+    Last       : Sun Apr 16 23:10:47 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 2
+    Type       : Probe Request
+    SSID       : H67X8
+    First      : Sun Apr 16 23:11:50 2017
+    Last       : Sun Apr 16 23:11:50 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 41 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 41
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 41
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 41 packets
+               Sun Apr 16 23:11:50 2017
+Network 3: BSSID 00:1C:10:5A:C2:7A
+ Manuf      : Cisco-Li
+ First      : Sun Apr 16 23:06:58 2017
+ Last       : Sun Apr 16 23:11:43 2017
+ Type       : infrastructure
+ BSSID      : 00:1C:10:5A:C2:7A
+   SSID 1
+    Type       : Probe Response
+    SSID       : "peterl" 
+    First      : Sun Apr 16 23:06:58 2017
+    Last       : Sun Apr 16 23:11:43 2017
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 368
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 6
+ Frequency  : 2437 - 401 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 368
+ Data       : 33
+ Crypt      : 30
+ Fragments  : 0
+ Retries    : 0
+ Total      : 401
+ Datasize   : 3967
+ Last BSSTS : Apr 10 19:11:46
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 401 packets
+              Sun Apr 16 23:11:43 2017
+ Client 1: MAC 00:1C:10:5A:C2:78
+  Manuf      : Cisco-Li
+  First      : Sun Apr 16 23:07:14 2017
+  Last       : Sun Apr 16 23:07:41 2017
+  Type       : From Distribution
+  MAC        : 00:1C:10:5A:C2:78
+  Channel    : 0
+  Frequency  : 2437 - 4 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 4
+  Crypt      : 4
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 320
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 4 packets
+               Sun Apr 16 23:07:41 2017
+ Client 2: MAC 00:1C:10:5A:C2:7A
+  Manuf      : Cisco-Li
+  First      : Sun Apr 16 23:06:58 2017
+  Last       : Sun Apr 16 23:11:43 2017
+  Type       : Unknown
+  MAC        : 00:1C:10:5A:C2:7A
+  Channel    : 6
+  Frequency  : 2437 - 369 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 368
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 369
+  Datasize   : 24
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 369 packets
+               Sun Apr 16 23:11:43 2017
+ Client 3: MAC 4C:80:93:5A:84:5D
+  Manuf      : IntelCor
+  First      : Sun Apr 16 23:07:29 2017
+  Last       : Sun Apr 16 23:11:25 2017
+  Type       : Established
+  MAC        : 4C:80:93:5A:84:5D
+  Channel    : 0
+  Frequency  : 2437 - 18 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 18
+  Crypt      : 16
+  Fragments  : 0
+  Retries    : 0
+  Total      : 18
+  Datasize   : 2250
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 18 packets
+               Sun Apr 16 23:11:25 2017
+ Client 4: MAC 84:8F:69:BE:C9:22
+  Manuf      : Dell
+  First      : Sun Apr 16 23:07:30 2017
+  Last       : Sun Apr 16 23:09:29 2017
+  Type       : From Distribution
+  MAC        : 84:8F:69:BE:C9:22
+  Channel    : 0
+  Frequency  : 2437 - 10 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 10
+  Crypt      : 10
+  Fragments  : 0
+  Retries    : 0
+  Total      : 10
+  Datasize   : 1373
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 10 packets
+               Sun Apr 16 23:09:29 2017
+Network 4: BSSID 00:25:9C:30:92:AF
+ Manuf      : Cisco-Li
+ First      : Sun Apr 16 23:07:13 2017
+ Last       : Sun Apr 16 23:11:32 2017
+ Type       : infrastructure
+ BSSID      : 00:25:9C:30:92:AF
+   SSID 1
+    Type       : Beacon
+    SSID       : "linksys" 
+    First      : Sun Apr 16 23:07:13 2017
+    Last       : Sun Apr 16 23:11:32 2017
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 76
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 76 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 76
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 76
+ Datasize   : 0
+ Last BSSTS : Apr 16 15:56:35
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 76 packets
+              Sun Apr 16 23:11:32 2017
+ Client 1: MAC 00:25:9C:30:92:AF
+  Manuf      : Cisco-Li
+  First      : Sun Apr 16 23:07:13 2017
+  Last       : Sun Apr 16 23:11:32 2017
+  Type       : From Distribution
+  MAC        : 00:25:9C:30:92:AF
+  Channel    : 6
+  Frequency  : 2437 - 76 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 76
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 76
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 76 packets
+               Sun Apr 16 23:11:32 2017
+Network 5: BSSID 00:26:B8:4A:7E:DB
+ Manuf      : Actionte
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : 00:26:B8:4A:7E:DB
+   SSID 1
+    Type       : Beacon
+    SSID       : "H67X8" 
+    First      : Sun Apr 16 23:06:57 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 130.0
+    Beacon     : 10
+    Packets    : 3346
+    WPS        : No
+    Encryption : WEP
+ Channel    : 6
+ Frequency  : 2437 - 162426 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 3346
+ Data       : 159080
+ Crypt      : 155481
+ Fragments  : 0
+ Retries    : 36
+ Total      : 162426
+ Datasize   : 108287514
+ Last BSSTS : Apr 15 23:52:36
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 162426 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC 00:04:4B:2F:66:A2
+  Manuf      : Nvidia
+  First      : Sun Apr 16 23:07:01 2017
+  Last       : Sun Apr 16 23:11:51 2017
+  Type       : Established
+  MAC        : 00:04:4B:2F:66:A2
+  Channel    : 0
+  Frequency  : 2437 - 594 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 594
+  Crypt      : 270
+  Fragments  : 0
+  Retries    : 0
+  Total      : 594
+  Datasize   : 50925
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 594 packets
+               Sun Apr 16 23:11:51 2017
+ Client 2: MAC 00:26:B8:4A:7E:D6
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : 00:26:B8:4A:7E:D6
+  Channel    : 0
+  Frequency  : 2437 - 81935 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 81935
+  Crypt      : 81935
+  Fragments  : 0
+  Retries    : 11
+  Total      : 81935
+  Datasize   : 98273228
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 81935 packets
+               Sun Apr 16 23:11:55 2017
+ Client 3: MAC 00:26:B8:4A:7E:DB
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : 00:26:B8:4A:7E:DB
+  Channel    : 6
+  Frequency  : 2437 - 3346 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 3346
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3346
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 3346 packets
+               Sun Apr 16 23:11:55 2017
+ Client 4: MAC 02:BA:D0:15:2B:56
+  Manuf      : Unknown
+  First      : Sun Apr 16 23:07:41 2017
+  Last       : Sun Apr 16 23:11:51 2017
+  Type       : Established
+  MAC        : 02:BA:D0:15:2B:56
+  Channel    : 0
+  Frequency  : 2437 - 19 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 19
+  Crypt      : 19
+  Fragments  : 0
+  Retries    : 0
+  Total      : 19
+  Datasize   : 1634
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 19 packets
+               Sun Apr 16 23:11:51 2017
+ Client 5: MAC 3C:75:4A:B0:25:DD
+  Manuf      : ArrisGro
+  First      : Sun Apr 16 23:06:59 2017
+  Last       : Sun Apr 16 23:11:52 2017
+  Type       : From Distribution
+  MAC        : 3C:75:4A:B0:25:DD
+  Channel    : 0
+  Frequency  : 2437 - 59 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 59
+  Crypt      : 59
+  Fragments  : 0
+  Retries    : 0
+  Total      : 59
+  Datasize   : 24417
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 59 packets
+               Sun Apr 16 23:11:52 2017
+ Client 6: MAC 50:9E:A7:F2:BF:53
+  Manuf      : SamsungE
+  First      : Sun Apr 16 23:07:09 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : Established
+  MAC        : 50:9E:A7:F2:BF:53
+  Channel    : 0
+  Frequency  : 2437 - 412 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 412
+  Crypt      : 272
+  Fragments  : 0
+  Retries    : 3
+  Total      : 412
+  Datasize   : 50368
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 412 packets
+               Sun Apr 16 23:11:55 2017
+ Client 7: MAC 60:D8:19:20:2B:17
+  Manuf      : HonHaiPr
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : Established
+  MAC        : 60:D8:19:20:2B:17
+  Channel    : 0
+  Frequency  : 2437 - 32440 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 32440
+  Crypt      : 32440
+  Fragments  : 0
+  Retries    : 14
+  Total      : 32440
+  Datasize   : 3832716
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 32440 packets
+               Sun Apr 16 23:11:55 2017
+ Client 8: MAC 78:40:E4:09:B4:0A
+  Manuf      : SamsungE
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:54 2017
+  Type       : Established
+  MAC        : 78:40:E4:09:B4:0A
+  Channel    : 0
+  Frequency  : 2437 - 14330 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 14330
+  Crypt      : 13783
+  Fragments  : 0
+  Retries    : 0
+  Total      : 14330
+  Datasize   : 2391148
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 14330 packets
+               Sun Apr 16 23:11:54 2017
+ Client 9: MAC A0:D3:7A:1D:05:F6
+  Manuf      : IntelCor
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : Established
+  MAC        : A0:D3:7A:1D:05:F6
+  Channel    : 0
+  Frequency  : 2437 - 28142 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 28142
+  Crypt      : 25861
+  Fragments  : 0
+  Retries    : 5
+  Total      : 28142
+  Datasize   : 3511700
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 28142 packets
+               Sun Apr 16 23:11:55 2017
+ Client 10: MAC C0:CB:38:20:62:D2
+  Manuf      : HonHaiPr
+  First      : Sun Apr 16 23:07:05 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : Established
+  MAC        : C0:CB:38:20:62:D2
+  Channel    : 0
+  Frequency  : 2437 - 320 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 320
+  Crypt      : 320
+  Fragments  : 0
+  Retries    : 1
+  Total      : 320
+  Datasize   : 56858
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 320 packets
+               Sun Apr 16 23:11:55 2017
+ Client 11: MAC C0:EE:FB:DB:61:A4
+  Manuf      : OneplusT
+  First      : Sun Apr 16 23:07:06 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : To Distribution
+  MAC        : C0:EE:FB:DB:61:A4
+  Channel    : 0
+  Frequency  : 2437 - 296 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 296
+  Crypt      : 158
+  Fragments  : 0
+  Retries    : 0
+  Total      : 296
+  Datasize   : 29426
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 296 packets
+               Sun Apr 16 23:11:55 2017
+ Client 12: MAC FC:C2:DE:AD:F8:93
+  Manuf      : Unknown
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : To Distribution
+  MAC        : FC:C2:DE:AD:F8:93
+  Channel    : 0
+  Frequency  : 2437 - 533 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 533
+  Crypt      : 364
+  Fragments  : 0
+  Retries    : 2
+  Total      : 533
+  Datasize   : 65094
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 533 packets
+               Sun Apr 16 23:11:55 2017
+Network 6: BSSID 00:3E:5D:9E:F4:F4
+ Manuf      : Unknown
+ First      : Sun Apr 16 23:07:52 2017
+ Last       : Sun Apr 16 23:07:52 2017
+ Type       : infrastructure
+ BSSID      : 00:3E:5D:9E:F4:F4
+   SSID 1
+    Type       : Beacon
+    SSID       : "9EF4EC" 
+    First      : Sun Apr 16 23:07:52 2017
+    Last       : Sun Apr 16 23:07:52 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 1
+    WPS        : Configured
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 6
+ Frequency  : 2437 - 1 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : Apr 16 13:28:45
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+              Sun Apr 16 23:07:52 2017
+ Client 1: MAC 00:3E:5D:9E:F4:F4
+  Manuf      : Unknown
+  First      : Sun Apr 16 23:07:52 2017
+  Last       : Sun Apr 16 23:07:52 2017
+  Type       : From Distribution
+  MAC        : 00:3E:5D:9E:F4:F4
+  Channel    : 6
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:07:52 2017
+Network 7: BSSID 00:7F:28:2F:DB:B6
+ Manuf      : Actionte
+ First      : Sun Apr 16 23:07:14 2017
+ Last       : Sun Apr 16 23:11:27 2017
+ Type       : infrastructure
+ BSSID      : 00:7F:28:2F:DB:B6
+   SSID 1
+    Type       : Beacon
+    SSID       : "YFMG6" 
+    First      : Sun Apr 16 23:07:14 2017
+    Last       : Sun Apr 16 23:11:27 2017
+    Max Rate   : 130.0
+    Beacon     : 10
+    Packets    : 40
+    WPS        : Configured
+    WPS Manuf  : Actiontec Electronics INC.
+    Dev Name   : Wireless Broadband Router
+    Model Name : Wireless Broadband Router
+    Model Num  : 0001
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 41 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 40
+ Data       : 1
+ Crypt      : 1
+ Fragments  : 0
+ Retries    : 0
+ Total      : 41
+ Datasize   : 94
+ Last BSSTS : Apr 12 22:38:49
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 41 packets
+              Sun Apr 16 23:11:27 2017
+ Client 1: MAC 00:7F:28:2F:DB:B6
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:07:14 2017
+  Last       : Sun Apr 16 23:11:27 2017
+  Type       : From Distribution
+  MAC        : 00:7F:28:2F:DB:B6
+  Channel    : 6
+  Frequency  : 2437 - 40 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 40
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 40
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 40 packets
+               Sun Apr 16 23:11:27 2017
+ Client 2: MAC 74:F6:12:E7:86:FC
+  Manuf      : ArrisGro
+  First      : Sun Apr 16 23:09:39 2017
+  Last       : Sun Apr 16 23:09:39 2017
+  Type       : From Distribution
+  MAC        : 74:F6:12:E7:86:FC
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:09:39 2017
+Network 8: BSSID 00:7F:28:B3:F9:9C
+ Manuf      : Actionte
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : 00:7F:28:B3:F9:9C
+   SSID 1
+    Type       : Beacon
+    SSID       : "PSMPL" 
+    First      : Sun Apr 16 23:06:57 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 130.0
+    Beacon     : 10
+    Packets    : 703
+    WPS        : Configured
+    WPS Manuf  : Actiontec Electronics INC.
+    Dev Name   : Wireless Broadband Router
+    Model Name : Wireless Broadband Router
+    Model Num  : 0001
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 753 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 703
+ Data       : 50
+ Crypt      : 50
+ Fragments  : 0
+ Retries    : 0
+ Total      : 753
+ Datasize   : 7313
+ Last BSSTS : Mar 30 15:05:26
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 753 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC 00:19:21:25:D7:D1
+  Manuf      : Elitegro
+  First      : Sun Apr 16 23:07:09 2017
+  Last       : Sun Apr 16 23:11:13 2017
+  Type       : From Distribution
+  MAC        : 00:19:21:25:D7:D1
+  Channel    : 0
+  Frequency  : 2437 - 17 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 17
+  Crypt      : 17
+  Fragments  : 0
+  Retries    : 0
+  Total      : 17
+  Datasize   : 4059
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 17 packets
+               Sun Apr 16 23:11:13 2017
+ Client 2: MAC 00:7F:28:B3:F9:99
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:07:45 2017
+  Last       : Sun Apr 16 23:07:45 2017
+  Type       : From Distribution
+  MAC        : 00:7F:28:B3:F9:99
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 84
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:07:45 2017
+ Client 3: MAC 00:7F:28:B3:F9:9C
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : 00:7F:28:B3:F9:9C
+  Channel    : 6
+  Frequency  : 2437 - 703 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 703
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 703
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 703 packets
+               Sun Apr 16 23:11:55 2017
+ Client 4: MAC 2C:9E:5F:25:55:43
+  Manuf      : ArrisGro
+  First      : Sun Apr 16 23:07:18 2017
+  Last       : Sun Apr 16 23:11:25 2017
+  Type       : From Distribution
+  MAC        : 2C:9E:5F:25:55:43
+  Channel    : 0
+  Frequency  : 2437 - 11 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 11
+  Crypt      : 11
+  Fragments  : 0
+  Retries    : 0
+  Total      : 11
+  Datasize   : 1034
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 11 packets
+               Sun Apr 16 23:11:25 2017
+ Client 5: MAC 74:F6:12:F9:83:6E
+  Manuf      : ArrisGro
+  First      : Sun Apr 16 23:07:32 2017
+  Last       : Sun Apr 16 23:11:16 2017
+  Type       : From Distribution
+  MAC        : 74:F6:12:F9:83:6E
+  Channel    : 0
+  Frequency  : 2437 - 21 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 21
+  Crypt      : 21
+  Fragments  : 0
+  Retries    : 0
+  Total      : 21
+  Datasize   : 2136
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 21 packets
+               Sun Apr 16 23:11:16 2017
+Network 9: BSSID 04:A1:51:13:89:E8
+ Manuf      : Netgear
+ First      : Sun Apr 16 23:07:06 2017
+ Last       : Sun Apr 16 23:11:54 2017
+ Type       : infrastructure
+ BSSID      : 04:A1:51:13:89:E8
+   SSID 1
+    Type       : Beacon
+    SSID       : "kley97" 
+    First      : Sun Apr 16 23:07:06 2017
+    Last       : Sun Apr 16 23:11:54 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 244
+    WPS        : Configured
+    WPS Manuf  : NETGEAR, Inc.
+    Dev Name   : R6200v2
+    Model Name : R6200v2
+    Model Num  : R6200v2
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 258 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 244
+ Data       : 14
+ Crypt      : 13
+ Fragments  : 0
+ Retries    : 0
+ Total      : 258
+ Datasize   : 3126
+ Last BSSTS : Feb 24 01:14:35
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 258 packets
+              Sun Apr 16 23:11:54 2017
+ Client 1: MAC 04:A1:51:13:89:E8
+  Manuf      : Netgear
+  First      : Sun Apr 16 23:07:06 2017
+  Last       : Sun Apr 16 23:11:54 2017
+  Type       : From Distribution
+  MAC        : 04:A1:51:13:89:E8
+  Channel    : 6
+  Frequency  : 2437 - 258 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 244
+  Data       : 14
+  Crypt      : 13
+  Fragments  : 0
+  Retries    : 0
+  Total      : 258
+  Datasize   : 3126
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 258 packets
+               Sun Apr 16 23:11:54 2017
+Network 10: BSSID 08:05:81:E0:E3:BD
+ Manuf      : Roku
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : 08:05:81:E0:E3:BD
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Sun Apr 16 23:06:57 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 2196
+    WPS        : Configured
+    Dev Name   : DIRECT-roku-042-2A45FE
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+   SSID 2
+    Type       : Probe Response
+    SSID       : "DIRECT-roku-042-2A45FE" 
+    First      : Sun Apr 16 23:07:24 2017
+    Last       : Sun Apr 16 23:10:47 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 17
+    WPS        : Configured
+    WPS Manuf  : Roku
+    Dev Name   : DIRECT-roku-042-2A45FE
+    Model Name : Roku Stick
+    Model Num  : 3600X ver 7.50 build 4099
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 2213 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 2213
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2213
+ Datasize   : 0
+ Last BSSTS : Apr  2 19:08:23
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2213 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC 08:05:81:E0:E3:BD
+  Manuf      : Roku
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : 08:05:81:E0:E3:BD
+  Channel    : 6
+  Frequency  : 2437 - 2213 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 2213
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2213
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2213 packets
+               Sun Apr 16 23:11:55 2017
+Network 11: BSSID 18:1B:EB:25:1B:1F
+ Manuf      : Actionte
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : 18:1B:EB:25:1B:1F
+   SSID 1
+    Type       : Beacon
+    SSID       : "Amar" 
+    First      : Sun Apr 16 23:06:57 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 3509
+    WPS        : No
+    Encryption : WEP
+ Channel    : 6
+ Frequency  : 2437 - 3860 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 3509
+ Data       : 351
+ Crypt      : 347
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3860
+ Datasize   : 109260
+ Last BSSTS : Apr 15 15:41:22
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 3860 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC 00:90:A9:3A:58:F1
+  Manuf      : WesternD
+  First      : Sun Apr 16 23:07:10 2017
+  Last       : Sun Apr 16 23:11:52 2017
+  Type       : From Distribution
+  MAC        : 00:90:A9:3A:58:F1
+  Channel    : 0
+  Frequency  : 2437 - 91 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 91
+  Crypt      : 91
+  Fragments  : 0
+  Retries    : 0
+  Total      : 91
+  Datasize   : 37783
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 91 packets
+               Sun Apr 16 23:11:52 2017
+ Client 2: MAC 08:05:81:E0:E3:BB
+  Manuf      : Roku
+  First      : Sun Apr 16 23:06:58 2017
+  Last       : Sun Apr 16 23:11:49 2017
+  Type       : Established
+  MAC        : 08:05:81:E0:E3:BB
+  Channel    : 0
+  Frequency  : 2437 - 126 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 126
+  Crypt      : 122
+  Fragments  : 0
+  Retries    : 0
+  Total      : 126
+  Datasize   : 27403
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 126 packets
+               Sun Apr 16 23:11:49 2017
+ Client 3: MAC 18:1B:EB:25:1B:1C
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:06:59 2017
+  Last       : Sun Apr 16 23:11:39 2017
+  Type       : From Distribution
+  MAC        : 18:1B:EB:25:1B:1C
+  Channel    : 0
+  Frequency  : 2437 - 77 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 77
+  Crypt      : 77
+  Fragments  : 0
+  Retries    : 0
+  Total      : 77
+  Datasize   : 19974
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 77 packets
+               Sun Apr 16 23:11:39 2017
+ Client 4: MAC 18:1B:EB:25:1B:1F
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : 18:1B:EB:25:1B:1F
+  Channel    : 6
+  Frequency  : 2437 - 3509 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 3509
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3509
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 3509 packets
+               Sun Apr 16 23:11:55 2017
+ Client 5: MAC 2C:9E:5F:2E:41:2E
+  Manuf      : ArrisGro
+  First      : Sun Apr 16 23:07:07 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : 2C:9E:5F:2E:41:2E
+  Channel    : 0
+  Frequency  : 2437 - 57 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 57
+  Crypt      : 57
+  Fragments  : 0
+  Retries    : 0
+  Total      : 57
+  Datasize   : 24100
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 57 packets
+               Sun Apr 16 23:11:55 2017
+Network 12: BSSID 1C:99:4C:40:44:56
+ Manuf      : MurataMa
+ First      : Sun Apr 16 23:07:22 2017
+ Last       : Sun Apr 16 23:07:22 2017
+ Type       : probe
+ BSSID      : 1C:99:4C:40:44:56
+ Channel    : 0
+ Frequency  : 2437 - 2 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:07:22
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+              Sun Apr 16 23:07:22 2017
+ Client 1: MAC 1C:99:4C:40:44:56
+  Manuf      : MurataMa
+  First      : Sun Apr 16 23:07:22 2017
+  Last       : Sun Apr 16 23:07:22 2017
+  Type       : To Distribution
+  MAC        : 1C:99:4C:40:44:56
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Sun Apr 16 23:07:22 2017
+    Last       : Sun Apr 16 23:07:22 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 2 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+               Sun Apr 16 23:07:22 2017
+Network 13: BSSID 20:4E:7F:9E:3E:79
+ Manuf      : Netgear
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : 20:4E:7F:9E:3E:79
+   SSID 1
+    Type       : Beacon
+    SSID       : "9E3E7A" 
+    First      : Sun Apr 16 23:06:57 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 1093
+    WPS        : Configured
+    WPS Manuf  : NETGEAR, Inc.
+    Dev Name   : WNDR3400
+    Model Name : WNDR3400
+    Model Num  : WNDR3400
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 6
+ Frequency  : 2437 - 1107 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 1093
+ Data       : 14
+ Crypt      : 13
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1107
+ Datasize   : 2825
+ Last BSSTS : Mar  9 00:07:56
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1107 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC 18:F6:43:56:18:D8
+  Manuf      : Apple
+  First      : Sun Apr 16 23:06:59 2017
+  Last       : Sun Apr 16 23:10:07 2017
+  Type       : From Distribution
+  MAC        : 18:F6:43:56:18:D8
+  Channel    : 0
+  Frequency  : 2437 - 9 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 9
+  Crypt      : 9
+  Fragments  : 0
+  Retries    : 0
+  Total      : 9
+  Datasize   : 1250
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 9 packets
+               Sun Apr 16 23:10:07 2017
+ Client 2: MAC 20:4E:7F:9E:3E:79
+  Manuf      : Netgear
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : 20:4E:7F:9E:3E:79
+  Channel    : 6
+  Frequency  : 2437 - 1098 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 1093
+  Data       : 5
+  Crypt      : 4
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1098
+  Datasize   : 1575
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1098 packets
+               Sun Apr 16 23:11:55 2017
+Network 14: BSSID 24:A2:E1:C7:01:1B
+ Manuf      : Apple
+ First      : Sun Apr 16 23:08:43 2017
+ Last       : Sun Apr 16 23:08:43 2017
+ Type       : probe
+ BSSID      : 24:A2:E1:C7:01:1B
+ Channel    : 0
+ Frequency  : 2437 - 1 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:08:43
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+              Sun Apr 16 23:08:43 2017
+ Client 1: MAC 24:A2:E1:C7:01:1B
+  Manuf      : Apple
+  First      : Sun Apr 16 23:08:43 2017
+  Last       : Sun Apr 16 23:08:43 2017
+  Type       : To Distribution
+  MAC        : 24:A2:E1:C7:01:1B
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Sun Apr 16 23:08:43 2017
+    Last       : Sun Apr 16 23:08:43 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:08:43 2017
+Network 15: BSSID 30:52:CB:BD:BA:F7
+ Manuf      : LiteonTe
+ First      : Sun Apr 16 23:07:24 2017
+ Last       : Sun Apr 16 23:11:44 2017
+ Type       : probe
+ BSSID      : 30:52:CB:BD:BA:F7
+ Channel    : 0
+ Frequency  : 2437 - 12 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 12
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 12
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:11:44
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 12 packets
+              Sun Apr 16 23:11:44 2017
+ Client 1: MAC 30:52:CB:BD:BA:F7
+  Manuf      : LiteonTe
+  First      : Sun Apr 16 23:07:24 2017
+  Last       : Sun Apr 16 23:11:44 2017
+  Type       : To Distribution
+  MAC        : 30:52:CB:BD:BA:F7
+   SSID 1
+    Type       : Probe Request
+    SSID       : FiOS-8AYMM-5G
+    First      : Sun Apr 16 23:11:44 2017
+    Last       : Sun Apr 16 23:11:44 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 12 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 12
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 12
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 12 packets
+               Sun Apr 16 23:11:44 2017
+Network 16: BSSID 48:5D:36:1A:81:C6
+ Manuf      : Verizon
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : 48:5D:36:1A:81:C6
+   SSID 1
+    Type       : Beacon
+    SSID       : "FiOS-RNEPC" 
+    First      : Sun Apr 16 23:06:57 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 1141
+    WPS        : Configured
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 1252 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 1141
+ Data       : 111
+ Crypt      : 77
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1252
+ Datasize   : 21715
+ Last BSSTS : Apr  8 23:54:29
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1252 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC 00:23:EE:93:1D:25
+  Manuf      : ArrisGro
+  First      : Sun Apr 16 23:06:59 2017
+  Last       : Sun Apr 16 23:11:52 2017
+  Type       : From Distribution
+  MAC        : 00:23:EE:93:1D:25
+  Channel    : 0
+  Frequency  : 2437 - 17 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 17
+  Crypt      : 17
+  Fragments  : 0
+  Retries    : 0
+  Total      : 17
+  Datasize   : 3584
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 17 packets
+               Sun Apr 16 23:11:52 2017
+ Client 2: MAC 48:5D:36:1A:81:C3
+  Manuf      : Verizon
+  First      : Sun Apr 16 23:07:14 2017
+  Last       : Sun Apr 16 23:11:53 2017
+  Type       : From Distribution
+  MAC        : 48:5D:36:1A:81:C3
+  Channel    : 0
+  Frequency  : 2437 - 40 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 40
+  Crypt      : 40
+  Fragments  : 0
+  Retries    : 0
+  Total      : 40
+  Datasize   : 11491
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 40 packets
+               Sun Apr 16 23:11:53 2017
+ Client 3: MAC 48:5D:36:1A:81:C6
+  Manuf      : Verizon
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : 48:5D:36:1A:81:C6
+  Channel    : 6
+  Frequency  : 2437 - 1141 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 1141
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1141
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1141 packets
+               Sun Apr 16 23:11:55 2017
+ Client 4: MAC 5C:AD:CF:C9:92:A0
+  Manuf      : Apple
+  First      : Sun Apr 16 23:09:06 2017
+  Last       : Sun Apr 16 23:09:06 2017
+  Type       : From Distribution
+  MAC        : 5C:AD:CF:C9:92:A0
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 88
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:09:06 2017
+ Client 5: MAC B2:C5:54:0D:F2:52
+  Manuf      : Unknown
+  First      : Sun Apr 16 23:07:08 2017
+  Last       : Sun Apr 16 23:11:54 2017
+  Type       : Established
+  MAC        : B2:C5:54:0D:F2:52
+  Channel    : 0
+  Frequency  : 2437 - 47 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 47
+  Crypt      : 13
+  Fragments  : 0
+  Retries    : 0
+  Total      : 47
+  Datasize   : 5789
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 47 packets
+               Sun Apr 16 23:11:54 2017
+ Client 6: MAC FC:3F:DB:17:B6:3E
+  Manuf      : HewlettP
+  First      : Sun Apr 16 23:07:44 2017
+  Last       : Sun Apr 16 23:11:53 2017
+  Type       : From Distribution
+  MAC        : FC:3F:DB:17:B6:3E
+  Channel    : 0
+  Frequency  : 2437 - 6 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 6
+  Crypt      : 6
+  Fragments  : 0
+  Retries    : 0
+  Total      : 6
+  Datasize   : 763
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 6 packets
+               Sun Apr 16 23:11:53 2017
+Network 17: BSSID 48:EE:0C:4C:90:74
+ Manuf      : D-LinkIn
+ First      : Sun Apr 16 23:07:43 2017
+ Last       : Sun Apr 16 23:11:41 2017
+ Type       : infrastructure
+ BSSID      : 48:EE:0C:4C:90:74
+   SSID 1
+    Type       : Beacon
+    SSID       : "Nicoletti" 
+    First      : Sun Apr 16 23:07:43 2017
+    Last       : Sun Apr 16 23:11:41 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 13
+    WPS        : Configured
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 6
+ Frequency  : 2437 - 13 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 13
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 13
+ Datasize   : 0
+ Last BSSTS : Apr 16 13:28:40
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 13 packets
+              Sun Apr 16 23:11:41 2017
+ Client 1: MAC 48:EE:0C:4C:90:74
+  Manuf      : D-LinkIn
+  First      : Sun Apr 16 23:07:43 2017
+  Last       : Sun Apr 16 23:11:41 2017
+  Type       : From Distribution
+  MAC        : 48:EE:0C:4C:90:74
+  Channel    : 6
+  Frequency  : 2437 - 13 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 13
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 13
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 13 packets
+               Sun Apr 16 23:11:41 2017
+Network 18: BSSID 4A:EE:0C:4C:90:75
+ Manuf      : Unknown
+ First      : Sun Apr 16 23:08:27 2017
+ Last       : Sun Apr 16 23:11:41 2017
+ Type       : infrastructure
+ BSSID      : 4A:EE:0C:4C:90:75
+   SSID 1
+    Type       : Beacon
+    SSID       : "optimumwifi" 
+    First      : Sun Apr 16 23:08:27 2017
+    Last       : Sun Apr 16 23:11:41 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 2
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 2 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : Apr 16 13:28:40
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+              Sun Apr 16 23:11:41 2017
+ Client 1: MAC 4A:EE:0C:4C:90:75
+  Manuf      : Unknown
+  First      : Sun Apr 16 23:08:27 2017
+  Last       : Sun Apr 16 23:11:41 2017
+  Type       : From Distribution
+  MAC        : 4A:EE:0C:4C:90:75
+  Channel    : 6
+  Frequency  : 2437 - 2 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+               Sun Apr 16 23:11:41 2017
+Network 19: BSSID 4C:8B:30:90:8F:41
+ Manuf      : Actionte
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : 4C:8B:30:90:8F:41
+   SSID 1
+    Type       : Beacon
+    SSID       : "FiOS-Q89M2" 
+    First      : Sun Apr 16 23:06:57 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 1231
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 1678 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 1231
+ Data       : 447
+ Crypt      : 444
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1678
+ Datasize   : 77426
+ Last BSSTS : Feb  9 13:25:59
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1678 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC 00:16:6B:76:B1:37
+  Manuf      : SamsungE
+  First      : Sun Apr 16 23:07:45 2017
+  Last       : Sun Apr 16 23:08:56 2017
+  Type       : From Distribution
+  MAC        : 00:16:6B:76:B1:37
+  Channel    : 0
+  Frequency  : 2437 - 3 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 3
+  Crypt      : 3
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 404
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 3 packets
+               Sun Apr 16 23:08:56 2017
+ Client 2: MAC 00:26:B8:DE:BF:8C
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:08:33 2017
+  Last       : Sun Apr 16 23:11:28 2017
+  Type       : From Distribution
+  MAC        : 00:26:B8:DE:BF:8C
+  Channel    : 0
+  Frequency  : 2437 - 4 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 4
+  Crypt      : 4
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 408
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 4 packets
+               Sun Apr 16 23:11:28 2017
+ Client 3: MAC 00:9C:02:D2:0E:3A
+  Manuf      : HewlettP
+  First      : Sun Apr 16 23:10:11 2017
+  Last       : Sun Apr 16 23:10:46 2017
+  Type       : From Distribution
+  MAC        : 00:9C:02:D2:0E:3A
+  Channel    : 0
+  Frequency  : 2437 - 3 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 3
+  Crypt      : 3
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 366
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 3 packets
+               Sun Apr 16 23:10:46 2017
+ Client 4: MAC 0C:3E:9F:4C:08:04
+  Manuf      : Apple
+  First      : Sun Apr 16 23:09:44 2017
+  Last       : Sun Apr 16 23:11:33 2017
+  Type       : From Distribution
+  MAC        : 0C:3E:9F:4C:08:04
+  Channel    : 0
+  Frequency  : 2437 - 2 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 216
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+               Sun Apr 16 23:11:33 2017
+ Client 5: MAC 34:C8:03:0E:1F:E8
+  Manuf      : Nokia
+  First      : Sun Apr 16 23:07:05 2017
+  Last       : Sun Apr 16 23:08:59 2017
+  Type       : From Distribution
+  MAC        : 34:C8:03:0E:1F:E8
+  Channel    : 0
+  Frequency  : 2437 - 2 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 160
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+               Sun Apr 16 23:08:59 2017
+ Client 6: MAC 4C:32:75:80:73:53
+  Manuf      : Apple
+  First      : Sun Apr 16 23:10:28 2017
+  Last       : Sun Apr 16 23:10:31 2017
+  Type       : From Distribution
+  MAC        : 4C:32:75:80:73:53
+  Channel    : 0
+  Frequency  : 2437 - 13 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 13
+  Crypt      : 13
+  Fragments  : 0
+  Retries    : 0
+  Total      : 13
+  Datasize   : 3214
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 13 packets
+               Sun Apr 16 23:10:31 2017
+ Client 7: MAC 4C:8B:30:90:8F:40
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:10:46 2017
+  Last       : Sun Apr 16 23:10:46 2017
+  Type       : From Distribution
+  MAC        : 4C:8B:30:90:8F:40
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 84
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:10:46 2017
+ Client 8: MAC 4C:8B:30:90:8F:41
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : 4C:8B:30:90:8F:41
+  Channel    : 6
+  Frequency  : 2437 - 1231 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 1231
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1231
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1231 packets
+               Sun Apr 16 23:11:55 2017
+ Client 9: MAC 6C:62:6D:78:DF:C6
+  Manuf      : Micro-St
+  First      : Sun Apr 16 23:08:13 2017
+  Last       : Sun Apr 16 23:10:56 2017
+  Type       : From Distribution
+  MAC        : 6C:62:6D:78:DF:C6
+  Channel    : 0
+  Frequency  : 2437 - 9 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 9
+  Crypt      : 9
+  Fragments  : 0
+  Retries    : 0
+  Total      : 9
+  Datasize   : 1349
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 9 packets
+               Sun Apr 16 23:10:56 2017
+ Client 10: MAC 6C:B5:6B:4D:AF:49
+  Manuf      : Humax
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:53 2017
+  Type       : From Distribution
+  MAC        : 6C:B5:6B:4D:AF:49
+  Channel    : 0
+  Frequency  : 2437 - 153 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 153
+  Crypt      : 153
+  Fragments  : 0
+  Retries    : 0
+  Total      : 153
+  Datasize   : 18751
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 153 packets
+               Sun Apr 16 23:11:53 2017
+ Client 11: MAC 74:DE:2B:71:58:58
+  Manuf      : LiteonTe
+  First      : Sun Apr 16 23:07:05 2017
+  Last       : Sun Apr 16 23:11:45 2017
+  Type       : Established
+  MAC        : 74:DE:2B:71:58:58
+  Channel    : 0
+  Frequency  : 2437 - 10 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 10
+  Crypt      : 7
+  Fragments  : 0
+  Retries    : 0
+  Total      : 10
+  Datasize   : 1082
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 10 packets
+               Sun Apr 16 23:11:45 2017
+ Client 12: MAC B0:C5:54:03:30:A7
+  Manuf      : D-LinkIn
+  First      : Sun Apr 16 23:08:33 2017
+  Last       : Sun Apr 16 23:08:33 2017
+  Type       : From Distribution
+  MAC        : B0:C5:54:03:30:A7
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 102
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:08:33 2017
+ Client 13: MAC C8:A7:0A:BD:49:40
+  Manuf      : VerizonB
+  First      : Sun Apr 16 23:06:58 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : C8:A7:0A:BD:49:40
+  Channel    : 0
+  Frequency  : 2437 - 46 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 46
+  Crypt      : 46
+  Fragments  : 0
+  Retries    : 0
+  Total      : 46
+  Datasize   : 15740
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 46 packets
+               Sun Apr 16 23:11:55 2017
+ Client 14: MAC CC:B1:1A:06:9F:FA
+  Manuf      : SamsungE
+  First      : Sun Apr 16 23:07:05 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : CC:B1:1A:06:9F:FA
+  Channel    : 0
+  Frequency  : 2437 - 166 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 166
+  Crypt      : 166
+  Fragments  : 0
+  Retries    : 0
+  Total      : 166
+  Datasize   : 27045
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 166 packets
+               Sun Apr 16 23:11:55 2017
+ Client 15: MAC D8:1D:72:E7:DD:9E
+  Manuf      : Apple
+  First      : Sun Apr 16 23:07:26 2017
+  Last       : Sun Apr 16 23:07:40 2017
+  Type       : From Distribution
+  MAC        : D8:1D:72:E7:DD:9E
+  Channel    : 0
+  Frequency  : 2437 - 10 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 10
+  Crypt      : 10
+  Fragments  : 0
+  Retries    : 0
+  Total      : 10
+  Datasize   : 1282
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 10 packets
+               Sun Apr 16 23:07:40 2017
+ Client 16: MAC E0:B7:B1:12:72:82
+  Manuf      : ArrisGro
+  First      : Sun Apr 16 23:10:40 2017
+  Last       : Sun Apr 16 23:10:40 2017
+  Type       : From Distribution
+  MAC        : E0:B7:B1:12:72:82
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 98
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:10:40 2017
+ Client 17: MAC FC:94:E3:08:0B:60
+  Manuf      : Technico
+  First      : Sun Apr 16 23:07:41 2017
+  Last       : Sun Apr 16 23:10:55 2017
+  Type       : From Distribution
+  MAC        : FC:94:E3:08:0B:60
+  Channel    : 0
+  Frequency  : 2437 - 17 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 17
+  Crypt      : 17
+  Fragments  : 0
+  Retries    : 0
+  Total      : 17
+  Datasize   : 5985
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 17 packets
+               Sun Apr 16 23:10:55 2017
+ Client 18: MAC FC:94:E3:12:E0:AC
+  Manuf      : Technico
+  First      : Sun Apr 16 23:07:45 2017
+  Last       : Sun Apr 16 23:10:47 2017
+  Type       : From Distribution
+  MAC        : FC:94:E3:12:E0:AC
+  Channel    : 0
+  Frequency  : 2437 - 6 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 6
+  Crypt      : 6
+  Fragments  : 0
+  Retries    : 0
+  Total      : 6
+  Datasize   : 1140
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 6 packets
+               Sun Apr 16 23:10:47 2017
+Network 20: BSSID 50:9E:A7:F2:BF:53
+ Manuf      : SamsungE
+ First      : Sun Apr 16 23:08:25 2017
+ Last       : Sun Apr 16 23:10:40 2017
+ Type       : probe
+ BSSID      : 50:9E:A7:F2:BF:53
+ Channel    : 0
+ Frequency  : 2437 - 8 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 8
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 8
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:10:40
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 8 packets
+              Sun Apr 16 23:10:40 2017
+ Client 1: MAC 50:9E:A7:F2:BF:53
+  Manuf      : SamsungE
+  First      : Sun Apr 16 23:08:25 2017
+  Last       : Sun Apr 16 23:10:40 2017
+  Type       : To Distribution
+  MAC        : 50:9E:A7:F2:BF:53
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Sun Apr 16 23:10:40 2017
+    Last       : Sun Apr 16 23:10:40 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 8 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 8
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 8 packets
+               Sun Apr 16 23:10:40 2017
+Network 21: BSSID 78:40:E4:09:B4:0A
+ Manuf      : SamsungE
+ First      : Sun Apr 16 23:07:10 2017
+ Last       : Sun Apr 16 23:09:52 2017
+ Type       : probe
+ BSSID      : 78:40:E4:09:B4:0A
+ Channel    : 0
+ Frequency  : 2437 - 19 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 19
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 19
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:09:52
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 19 packets
+              Sun Apr 16 23:09:52 2017
+ Client 1: MAC 78:40:E4:09:B4:0A
+  Manuf      : SamsungE
+  First      : Sun Apr 16 23:07:10 2017
+  Last       : Sun Apr 16 23:09:52 2017
+  Type       : To Distribution
+  MAC        : 78:40:E4:09:B4:0A
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Sun Apr 16 23:09:52 2017
+    Last       : Sun Apr 16 23:09:52 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 19 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 19
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 19
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 19 packets
+               Sun Apr 16 23:09:52 2017
+Network 22: BSSID 7C:95:F3:8B:FC:60
+ Manuf      : Cisco
+ First      : Sun Apr 16 23:11:16 2017
+ Last       : Sun Apr 16 23:11:16 2017
+ Type       : data
+ BSSID      : 7C:95:F3:8B:FC:60
+ Channel    : 0
+ Frequency  : 2437 - 2 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 0
+ Data       : 2
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 168
+ Last BSSTS : Apr 16 23:11:16
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+              Sun Apr 16 23:11:16 2017
+ Client 1: MAC E4:D3:F1:52:57:81
+  Manuf      : Cisco
+  First      : Sun Apr 16 23:11:16 2017
+  Last       : Sun Apr 16 23:11:16 2017
+  Type       : From Distribution
+  MAC        : E4:D3:F1:52:57:81
+  Channel    : 0
+  Frequency  : 2437 - 2 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 2
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 168
+  IP Type    : UDP/TCP
+  IP Block   : 25.209.12.16
+  IP Netmask : 0.0.0.0
+  IP Gateway : 0.0.0.0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+               Sun Apr 16 23:11:16 2017
+Network 23: BSSID 84:38:38:3F:45:5F
+ Manuf      : SamsungE
+ First      : Sun Apr 16 23:10:59 2017
+ Last       : Sun Apr 16 23:10:59 2017
+ Type       : probe
+ BSSID      : 84:38:38:3F:45:5F
+ Channel    : 0
+ Frequency  : 2437 - 2 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:10:59
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+              Sun Apr 16 23:10:59 2017
+ Client 1: MAC 84:38:38:3F:45:5F
+  Manuf      : SamsungE
+  First      : Sun Apr 16 23:10:59 2017
+  Last       : Sun Apr 16 23:10:59 2017
+  Type       : To Distribution
+  MAC        : 84:38:38:3F:45:5F
+   SSID 1
+    Type       : Probe Request
+    SSID       : GE41ARNTb
+    First      : Sun Apr 16 23:10:59 2017
+    Last       : Sun Apr 16 23:10:59 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 2 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+               Sun Apr 16 23:10:59 2017
+Network 24: BSSID 98:01:A7:A3:C1:57
+ Manuf      : Apple
+ First      : Sun Apr 16 23:11:28 2017
+ Last       : Sun Apr 16 23:11:28 2017
+ Type       : probe
+ BSSID      : 98:01:A7:A3:C1:57
+ Channel    : 0
+ Frequency  : 2437 - 1 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:11:28
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+              Sun Apr 16 23:11:28 2017
+ Client 1: MAC 98:01:A7:A3:C1:57
+  Manuf      : Apple
+  First      : Sun Apr 16 23:11:28 2017
+  Last       : Sun Apr 16 23:11:28 2017
+  Type       : To Distribution
+  MAC        : 98:01:A7:A3:C1:57
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Sun Apr 16 23:11:28 2017
+    Last       : Sun Apr 16 23:11:28 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:11:28 2017
+Network 25: BSSID A0:D3:7A:1D:05:F6
+ Manuf      : IntelCor
+ First      : Sun Apr 16 23:06:58 2017
+ Last       : Sun Apr 16 23:11:49 2017
+ Type       : probe
+ BSSID      : A0:D3:7A:1D:05:F6
+ Channel    : 0
+ Frequency  : 2437 - 156 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 156
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 156
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:11:49
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 156 packets
+              Sun Apr 16 23:11:49 2017
+ Client 1: MAC A0:D3:7A:1D:05:F6
+  Manuf      : IntelCor
+  First      : Sun Apr 16 23:06:58 2017
+  Last       : Sun Apr 16 23:11:49 2017
+  Type       : To Distribution
+  MAC        : A0:D3:7A:1D:05:F6
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Sun Apr 16 23:11:49 2017
+    Last       : Sun Apr 16 23:11:49 2017
+    Max Rate   : 150.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 156 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 156
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 156
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 156 packets
+               Sun Apr 16 23:11:49 2017
+Network 26: BSSID A4:F1:E8:1A:F3:AF
+ Manuf      : Apple
+ First      : Sun Apr 16 23:08:31 2017
+ Last       : Sun Apr 16 23:08:31 2017
+ Type       : probe
+ BSSID      : A4:F1:E8:1A:F3:AF
+ Channel    : 0
+ Frequency  : 2437 - 1 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:08:31
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+              Sun Apr 16 23:08:31 2017
+ Client 1: MAC A4:F1:E8:1A:F3:AF
+  Manuf      : Apple
+  First      : Sun Apr 16 23:08:31 2017
+  Last       : Sun Apr 16 23:08:31 2017
+  Type       : To Distribution
+  MAC        : A4:F1:E8:1A:F3:AF
+   SSID 1
+    Type       : Probe Request
+    SSID       : optimumwifi
+    First      : Sun Apr 16 23:08:31 2017
+    Last       : Sun Apr 16 23:08:31 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:08:31 2017
+Network 27: BSSID B4:E9:B0:17:8C:40
+ Manuf      : Cisco
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : B4:E9:B0:17:8C:40
+   SSID 1
+    Type       : Beacon
+    SSID       : "optimumwifi" 
+    Info       : 62B103_W008
+    First      : Sun Apr 16 23:06:57 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 264
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 338 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 338
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 338
+ Datasize   : 0
+ Last BSSTS : Mar 23 01:38:20
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 338 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC B4:E9:B0:17:8C:40
+  Manuf      : Cisco
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : B4:E9:B0:17:8C:40
+  Channel    : 6
+  Frequency  : 2437 - 338 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 338
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 338
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 338 packets
+               Sun Apr 16 23:11:55 2017
+Network 28: BSSID B4:E9:B0:17:8C:41
+ Manuf      : Cisco
+ First      : Sun Apr 16 23:06:58 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : B4:E9:B0:17:8C:41
+   SSID 1
+    Type       : Beacon
+    SSID       : "xfinitywifi" 
+    Info       : 62B103_W008
+    First      : Sun Apr 16 23:06:58 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 233
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 233 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 233
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 233
+ Datasize   : 0
+ Last BSSTS : Mar 23 01:38:20
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 233 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC B4:E9:B0:17:8C:41
+  Manuf      : Cisco
+  First      : Sun Apr 16 23:06:58 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : B4:E9:B0:17:8C:41
+  Channel    : 6
+  Frequency  : 2437 - 233 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 233
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 233
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 233 packets
+               Sun Apr 16 23:11:55 2017
+Network 29: BSSID B4:E9:B0:17:8C:42
+ Manuf      : Cisco
+ First      : Sun Apr 16 23:06:59 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : B4:E9:B0:17:8C:42
+   SSID 1
+    Type       : Beacon
+    SSID       : "TWCWiFi" 
+    Info       : 62B103_W008
+    First      : Sun Apr 16 23:06:59 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 228
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 228 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 228
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 228
+ Datasize   : 0
+ Last BSSTS : Mar 23 01:38:20
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 228 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC B4:E9:B0:17:8C:42
+  Manuf      : Cisco
+  First      : Sun Apr 16 23:06:59 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : B4:E9:B0:17:8C:42
+  Channel    : 6
+  Frequency  : 2437 - 228 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 228
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 228
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 228 packets
+               Sun Apr 16 23:11:55 2017
+Network 30: BSSID B4:E9:B0:17:8C:43
+ Manuf      : Cisco
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : B4:E9:B0:17:8C:43
+   SSID 1
+    Type       : Beacon
+    SSID       : "CableWiFi" 
+    Info       : 62B103_W008
+    First      : Sun Apr 16 23:06:57 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 203
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 203 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 203
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 203
+ Datasize   : 0
+ Last BSSTS : Mar 23 01:38:20
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 203 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC B4:E9:B0:17:8C:43
+  Manuf      : Cisco
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : B4:E9:B0:17:8C:43
+  Channel    : 6
+  Frequency  : 2437 - 203 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 203
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 203
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 203 packets
+               Sun Apr 16 23:11:55 2017
+Network 31: BSSID B4:E9:B0:17:8C:45
+ Manuf      : Cisco
+ First      : Sun Apr 16 23:06:58 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : B4:E9:B0:17:8C:45
+   SSID 1
+    Type       : Beacon
+    SSID       : "optimumwifi_Passpoint" 
+    Info       : 62B103_W008
+    First      : Sun Apr 16 23:06:58 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 198
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 198 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 198
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 198
+ Datasize   : 0
+ Last BSSTS : Mar 23 01:38:20
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 198 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC B4:E9:B0:17:8C:45
+  Manuf      : Cisco
+  First      : Sun Apr 16 23:06:58 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : B4:E9:B0:17:8C:45
+  Channel    : 6
+  Frequency  : 2437 - 198 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 198
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 198
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 198 packets
+               Sun Apr 16 23:11:55 2017
+Network 32: BSSID C0:EE:FB:DB:61:A4
+ Manuf      : OneplusT
+ First      : Sun Apr 16 23:10:11 2017
+ Last       : Sun Apr 16 23:11:17 2017
+ Type       : probe
+ BSSID      : C0:EE:FB:DB:61:A4
+ Channel    : 0
+ Frequency  : 2437 - 29 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 29
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 29
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:11:17
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 29 packets
+              Sun Apr 16 23:11:17 2017
+ Client 1: MAC C0:EE:FB:DB:61:A4
+  Manuf      : OneplusT
+  First      : Sun Apr 16 23:10:11 2017
+  Last       : Sun Apr 16 23:11:17 2017
+  Type       : To Distribution
+  MAC        : C0:EE:FB:DB:61:A4
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Sun Apr 16 23:11:17 2017
+    Last       : Sun Apr 16 23:11:17 2017
+    Max Rate   : 135.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 29 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 29
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 29
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 29 packets
+               Sun Apr 16 23:11:17 2017
+Network 33: BSSID E8:CC:18:DF:71:A8
+ Manuf      : D-LinkIn
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : E8:CC:18:DF:71:A8
+   SSID 1
+    Type       : Beacon
+    SSID       : "DF71A4" 
+    First      : Sun Apr 16 23:06:57 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 1113
+    WPS        : Configured
+    WPS Manuf  : D-Link
+    Dev Name   : OpenRG
+    Model Name : OpenRG Platform Phase 4
+    Model Num  : 34.5
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 6
+ Frequency  : 2437 - 1247 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 1113
+ Data       : 134
+ Crypt      : 134
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1247
+ Datasize   : 46391
+ Last BSSTS : Mar 26 19:31:25
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1247 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC 10:54:AA:56:CB:38
+  Manuf      : Unknown
+  First      : Sun Apr 16 23:07:07 2017
+  Last       : Sun Apr 16 23:11:38 2017
+  Type       : From Distribution
+  MAC        : 10:54:AA:56:CB:38
+  Channel    : 0
+  Frequency  : 2437 - 111 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 111
+  Crypt      : 111
+  Fragments  : 0
+  Retries    : 0
+  Total      : 111
+  Datasize   : 37911
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 111 packets
+               Sun Apr 16 23:11:38 2017
+ Client 2: MAC 78:6C:1C:A9:9C:8C
+  Manuf      : Apple
+  First      : Sun Apr 16 23:07:19 2017
+  Last       : Sun Apr 16 23:07:22 2017
+  Type       : From Distribution
+  MAC        : 78:6C:1C:A9:9C:8C
+  Channel    : 0
+  Frequency  : 2437 - 3 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 3
+  Crypt      : 3
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 428
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 3 packets
+               Sun Apr 16 23:07:22 2017
+ Client 3: MAC D4:6E:5C:60:22:9D
+  Manuf      : HuaweiTe
+  First      : Sun Apr 16 23:07:18 2017
+  Last       : Sun Apr 16 23:11:43 2017
+  Type       : From Distribution
+  MAC        : D4:6E:5C:60:22:9D
+  Channel    : 0
+  Frequency  : 2437 - 20 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 20
+  Crypt      : 20
+  Fragments  : 0
+  Retries    : 0
+  Total      : 20
+  Datasize   : 8052
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 20 packets
+               Sun Apr 16 23:11:43 2017
+ Client 4: MAC E8:CC:18:DF:71:A8
+  Manuf      : D-LinkIn
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : E8:CC:18:DF:71:A8
+  Channel    : 6
+  Frequency  : 2437 - 1113 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 1113
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1113
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1113 packets
+               Sun Apr 16 23:11:55 2017
+Network 34: BSSID EA:CC:18:DF:71:A9
+ Manuf      : Unknown
+ First      : Sun Apr 16 23:06:57 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : EA:CC:18:DF:71:A9
+   SSID 1
+    Type       : Beacon
+    SSID       : "optimumwifi" 
+    First      : Sun Apr 16 23:06:57 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 1079
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 1086 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 1079
+ Data       : 7
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1086
+ Datasize   : 3128
+ Last BSSTS : Mar 26 19:31:25
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1086 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC 14:67:C8:68:41:D6
+  Manuf      : Unknown
+  First      : Sun Apr 16 23:08:55 2017
+  Last       : Sun Apr 16 23:08:55 2017
+  Type       : From Distribution
+  MAC        : 14:67:C8:68:41:D6
+  Channel    : 0
+  Frequency  : 2437 - 2 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 2
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 3008
+  IP Type    : UDP/TCP
+  IP Block   : 25.210.73.74
+  IP Netmask : 0.0.0.0
+  IP Gateway : 0.0.0.0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+               Sun Apr 16 23:08:55 2017
+ Client 2: MAC EA:CC:18:DF:71:A9
+  Manuf      : Unknown
+  First      : Sun Apr 16 23:06:57 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : EA:CC:18:DF:71:A9
+  Channel    : 6
+  Frequency  : 2437 - 1084 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 1079
+  Data       : 5
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1084
+  Datasize   : 120
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1084 packets
+               Sun Apr 16 23:11:55 2017
+Network 35: BSSID F0:AB:54:24:D8:40
+ Manuf      : MitsumiE
+ First      : Sun Apr 16 23:08:30 2017
+ Last       : Sun Apr 16 23:08:35 2017
+ Type       : infrastructure
+ BSSID      : F0:AB:54:24:D8:40
+   SSID 1
+    Type       : Beacon
+    SSID       : "KENTahoe" 
+    First      : Sun Apr 16 23:08:30 2017
+    Last       : Sun Apr 16 23:08:35 2017
+    Max Rate   : 65.0
+    Beacon     : 10
+    Packets    : 14
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 14 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 14
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 14
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:03:38
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 14 packets
+              Sun Apr 16 23:08:35 2017
+ Client 1: MAC F0:AB:54:24:D8:40
+  Manuf      : MitsumiE
+  First      : Sun Apr 16 23:08:30 2017
+  Last       : Sun Apr 16 23:08:35 2017
+  Type       : From Distribution
+  MAC        : F0:AB:54:24:D8:40
+  Channel    : 6
+  Frequency  : 2437 - 14 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 14
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 14
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 14 packets
+               Sun Apr 16 23:08:35 2017
+Network 36: BSSID F8:E4:FB:39:93:47
+ Manuf      : Actionte
+ First      : Sun Apr 16 23:07:10 2017
+ Last       : Sun Apr 16 23:11:55 2017
+ Type       : infrastructure
+ BSSID      : F8:E4:FB:39:93:47
+   SSID 1
+    Type       : Beacon
+    SSID       : "6NQC7" 
+    First      : Sun Apr 16 23:07:10 2017
+    Last       : Sun Apr 16 23:11:55 2017
+    Max Rate   : 130.0
+    Beacon     : 10
+    Packets    : 53
+    WPS        : Configured
+    WPS Manuf  : Actiontec Electronics INC.
+    Dev Name   : Wireless Broadband Router
+    Model Name : Wireless Broadband Router
+    Model Num  : 0001
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 62 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 53
+ Data       : 9
+ Crypt      : 9
+ Fragments  : 0
+ Retries    : 0
+ Total      : 62
+ Datasize   : 1166
+ Last BSSTS : Apr 12 18:04:31
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 62 packets
+              Sun Apr 16 23:11:55 2017
+ Client 1: MAC 00:1A:AD:3A:52:FA
+  Manuf      : ArrisGro
+  First      : Sun Apr 16 23:10:12 2017
+  Last       : Sun Apr 16 23:10:12 2017
+  Type       : From Distribution
+  MAC        : 00:1A:AD:3A:52:FA
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:10:12 2017
+ Client 2: MAC 00:1C:11:6D:17:79
+  Manuf      : ArrisGro
+  First      : Sun Apr 16 23:10:12 2017
+  Last       : Sun Apr 16 23:10:12 2017
+  Type       : From Distribution
+  MAC        : 00:1C:11:6D:17:79
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:10:12 2017
+ Client 3: MAC 00:23:EE:8E:C6:D9
+  Manuf      : ArrisGro
+  First      : Sun Apr 16 23:09:30 2017
+  Last       : Sun Apr 16 23:09:30 2017
+  Type       : From Distribution
+  MAC        : 00:23:EE:8E:C6:D9
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:09:30 2017
+ Client 4: MAC 50:F5:DA:7E:39:3F
+  Manuf      : AmazonTe
+  First      : Sun Apr 16 23:07:23 2017
+  Last       : Sun Apr 16 23:07:23 2017
+  Type       : From Distribution
+  MAC        : 50:F5:DA:7E:39:3F
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 396
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:07:23 2017
+ Client 5: MAC B0:77:AC:A8:3D:71
+  Manuf      : ArrisGro
+  First      : Sun Apr 16 23:07:34 2017
+  Last       : Sun Apr 16 23:09:35 2017
+  Type       : From Distribution
+  MAC        : B0:77:AC:A8:3D:71
+  Channel    : 0
+  Frequency  : 2437 - 2 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 224
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 2 packets
+               Sun Apr 16 23:09:35 2017
+ Client 6: MAC F8:E4:FB:39:93:44
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:07:18 2017
+  Last       : Sun Apr 16 23:11:53 2017
+  Type       : From Distribution
+  MAC        : F8:E4:FB:39:93:44
+  Channel    : 0
+  Frequency  : 2437 - 3 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 0
+  Data       : 3
+  Crypt      : 3
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 264
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 3 packets
+               Sun Apr 16 23:11:53 2017
+ Client 7: MAC F8:E4:FB:39:93:47
+  Manuf      : Actionte
+  First      : Sun Apr 16 23:07:10 2017
+  Last       : Sun Apr 16 23:11:55 2017
+  Type       : From Distribution
+  MAC        : F8:E4:FB:39:93:47
+  Channel    : 6
+  Frequency  : 2437 - 53 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 53
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 53
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 53 packets
+               Sun Apr 16 23:11:55 2017
+Network 37: BSSID FC:3F:DB:17:B6:3F
+ Manuf      : HewlettP
+ First      : Sun Apr 16 23:07:07 2017
+ Last       : Sun Apr 16 23:11:40 2017
+ Type       : infrastructure
+ BSSID      : FC:3F:DB:17:B6:3F
+   SSID 1
+    Type       : Probe Response
+    SSID       : "DIRECT-3E-HP ENVY 7640 series" 
+    First      : Sun Apr 16 23:07:07 2017
+    Last       : Sun Apr 16 23:11:40 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 76
+    WPS        : Locked
+    WPS Manuf  : HP
+    Dev Name   : DIRECT-3E-HP ENVY 7640 series
+    Model Name : 0
+    Model Num  : 0
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 76 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 76
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 76
+ Datasize   : 0
+ Last BSSTS : Feb 26 15:49:52
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 76 packets
+              Sun Apr 16 23:11:40 2017
+ Client 1: MAC FC:3F:DB:17:B6:3F
+  Manuf      : HewlettP
+  First      : Sun Apr 16 23:07:07 2017
+  Last       : Sun Apr 16 23:11:40 2017
+  Type       : Unknown
+  MAC        : FC:3F:DB:17:B6:3F
+  Channel    : 6
+  Frequency  : 2437 - 76 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 76
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 76
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 76 packets
+               Sun Apr 16 23:11:40 2017
+Network 38: BSSID FC:C2:DE:AD:F8:93
+ Manuf      : Unknown
+ First      : Sun Apr 16 23:08:05 2017
+ Last       : Sun Apr 16 23:08:05 2017
+ Type       : probe
+ BSSID      : FC:C2:DE:AD:F8:93
+ Channel    : 0
+ Frequency  : 2437 - 1 packets, 100.00%
+ Max Seen   : 0
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : Apr 16 23:08:05
+    Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+              Sun Apr 16 23:08:05 2017
+ Client 1: MAC FC:C2:DE:AD:F8:93
+  Manuf      : Unknown
+  First      : Sun Apr 16 23:08:05 2017
+  Last       : Sun Apr 16 23:08:05 2017
+  Type       : To Distribution
+  MAC        : FC:C2:DE:AD:F8:93
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Sun Apr 16 23:08:05 2017
+    Last       : Sun Apr 16 23:08:05 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 0
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan0 (wlan0) 62e731d4-22f9-11e7-a5d3-0f04751ce201 1 packets
+               Sun Apr 16 23:08:05 2017
