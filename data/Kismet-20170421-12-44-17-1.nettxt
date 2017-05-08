@@ -1,0 +1,5810 @@
+Kismet (http://www.kismetwireless.net)
+Fri Apr 21 12:44:16 2017 - Kismet 2016.07.R1
+-----------------
+
+Network 1: BSSID 00:00:00:00:00:00
+ Manuf      : Unknown
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:33 2017
+ Type       : ad-hoc
+ BSSID      : 00:00:00:00:00:00
+ Channel    : 0
+ Frequency  : 2412 - 15 packets, 65.22%
+ Frequency  : 2437 - 3 packets, 13.04%
+ Frequency  : 2462 - 5 packets, 21.74%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 0
+ Data       : 23
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 23
+ Datasize   : 782
+ Last BSSTS : Apr 21 12:45:33
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 23 packets
+              Fri Apr 21 12:45:33 2017
+ Client 1: MAC 00:00:00:00:00:00
+  Manuf      : Unknown
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:33 2017
+  Type       : Ad-hoc
+  MAC        : 00:00:00:00:00:00
+  Channel    : 0
+  Frequency  : 2412 - 15 packets, 65.22%
+  Frequency  : 2437 - 3 packets, 13.04%
+  Frequency  : 2462 - 5 packets, 21.74%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 23
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 23
+  Datasize   : 782
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 23 packets
+               Fri Apr 21 12:45:33 2017
+Network 2: BSSID 00:04:4B:2F:66:A2
+ Manuf      : Nvidia
+ First      : Fri Apr 21 12:44:54 2017
+ Last       : Fri Apr 21 12:44:54 2017
+ Type       : probe
+ BSSID      : 00:04:4B:2F:66:A2
+ Channel    : 0
+ Frequency  : 2452 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:44:54
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+              Fri Apr 21 12:44:54 2017
+ Client 1: MAC 00:04:4B:2F:66:A2
+  Manuf      : Nvidia
+  First      : Fri Apr 21 12:44:54 2017
+  Last       : Fri Apr 21 12:44:54 2017
+  Type       : To Distribution
+  MAC        : 00:04:4B:2F:66:A2
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:44:54 2017
+    Last       : Fri Apr 21 12:44:54 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2452 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:54 2017
+Network 3: BSSID 00:30:44:1C:35:F1
+ Manuf      : Cradlepo
+ First      : Fri Apr 21 12:44:24 2017
+ Last       : Fri Apr 21 12:44:58 2017
+ Type       : infrastructure
+ BSSID      : 00:30:44:1C:35:F1
+   SSID 1
+    Type       : Probe Response
+    SSID       : "Sboard" 
+    First      : Fri Apr 21 12:44:24 2017
+    Last       : Fri Apr 21 12:44:58 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 3
+    WPS        : Configured
+    WPS Manuf  : Cradlepoint Technology
+    Dev Name   : CradlepointAP
+    Model Name : Cradlepoint Access Point
+    Model Num  : CPDEV
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 3 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 3
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 0
+ Last BSSTS : Apr 20 19:01:36
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+              Fri Apr 21 12:44:58 2017
+ Client 1: MAC 00:30:44:1C:35:F1
+  Manuf      : Cradlepo
+  First      : Fri Apr 21 12:44:24 2017
+  Last       : Fri Apr 21 12:44:58 2017
+  Type       : Unknown
+  MAC        : 00:30:44:1C:35:F1
+  Channel    : 1
+  Frequency  : 2412 - 3 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 3
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:44:58 2017
+Network 4: BSSID 00:A2:EE:03:E3:20
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : 00:A2:EE:03:E3:20
+   SSID 1
+    Type       : Beacon
+    SSID       : "constitution" 
+    Info       : GDN1US-0047P-AA
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 38
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 38 packets, 100.00%
+ Max Seen   : 12000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 38
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 38
+ Datasize   : 0
+ Last BSSTS : Dec  7 18:49:43
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 38 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC 00:A2:EE:03:E3:20
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : 00:A2:EE:03:E3:20
+  Channel    : 1
+  Frequency  : 2412 - 38 packets, 100.00%
+  Max Seen   : 12000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 38
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 38
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 38 packets
+               Fri Apr 21 12:45:38 2017
+Network 5: BSSID 00:A2:EE:03:E3:23
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : 00:A2:EE:03:E3:23
+   SSID 1
+    Type       : Beacon
+    SSID       : "ng-c" 
+    Info       : GDN1US-0047P-AA
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 22
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 22 packets, 100.00%
+ Max Seen   : 12000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 22
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 22
+ Datasize   : 0
+ Last BSSTS : Dec  7 18:49:43
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 22 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC 00:A2:EE:03:E3:23
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : 00:A2:EE:03:E3:23
+  Channel    : 1
+  Frequency  : 2412 - 22 packets, 100.00%
+  Max Seen   : 12000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 22
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 22
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 22 packets
+               Fri Apr 21 12:45:38 2017
+Network 6: BSSID 00:A2:EE:03:E3:24
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : 00:A2:EE:03:E3:24
+   SSID 1
+    Type       : Beacon
+    SSID       : "ng-p" 
+    Info       : GDN1US-0047P-AA
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 38
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 38 packets, 100.00%
+ Max Seen   : 12000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 38
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 38
+ Datasize   : 0
+ Last BSSTS : Dec  7 18:49:43
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 38 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC 00:A2:EE:03:E3:24
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : 00:A2:EE:03:E3:24
+  Channel    : 1
+  Frequency  : 2412 - 38 packets, 100.00%
+  Max Seen   : 12000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 38
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 38
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 38 packets
+               Fri Apr 21 12:45:38 2017
+Network 7: BSSID 00:A2:EE:03:E3:25
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : 00:A2:EE:03:E3:25
+   SSID 1
+    Type       : Beacon
+    SSID       : "ng-m" 
+    Info       : GDN1US-0047P-AA
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 42
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 42 packets, 100.00%
+ Max Seen   : 12000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 42
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 42
+ Datasize   : 0
+ Last BSSTS : Dec  7 18:49:43
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 42 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC 00:A2:EE:03:E3:25
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : 00:A2:EE:03:E3:25
+  Channel    : 1
+  Frequency  : 2412 - 42 packets, 100.00%
+  Max Seen   : 12000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 42
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 42
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 42 packets
+               Fri Apr 21 12:45:38 2017
+Network 8: BSSID 00:A2:EE:03:E3:26
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : 00:A2:EE:03:E3:26
+   SSID 1
+    Type       : Beacon
+    SSID       : "ng-g" 
+    Info       : GDN1US-0047P-AA
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 38
+    WPS        : No
+    Encryption : None
+ Channel    : 1
+ Frequency  : 2412 - 38 packets, 100.00%
+ Max Seen   : 12000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 38
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 38
+ Datasize   : 0
+ Last BSSTS : Dec  7 18:49:43
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 38 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC 00:A2:EE:03:E3:26
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : 00:A2:EE:03:E3:26
+  Channel    : 1
+  Frequency  : 2412 - 38 packets, 100.00%
+  Max Seen   : 12000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 38
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 38
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 38 packets
+               Fri Apr 21 12:45:38 2017
+Network 9: BSSID 04:15:52:4C:41:E8
+ Manuf      : Apple
+ First      : Fri Apr 21 12:45:11 2017
+ Last       : Fri Apr 21 12:45:14 2017
+ Type       : probe
+ BSSID      : 04:15:52:4C:41:E8
+ Channel    : 0
+ Frequency  : 2427 - 2 packets, 50.00%
+ Frequency  : 2452 - 2 packets, 50.00%
+ Max Seen   : 1000
+ LLC        : 4
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 4
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:14
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+              Fri Apr 21 12:45:14 2017
+ Client 1: MAC 04:15:52:4C:41:E8
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:11 2017
+  Last       : Fri Apr 21 12:45:14 2017
+  Type       : To Distribution
+  MAC        : 04:15:52:4C:41:E8
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:45:14 2017
+    Last       : Fri Apr 21 12:45:14 2017
+    Max Rate   : 65.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2427 - 2 packets, 50.00%
+  Frequency  : 2452 - 2 packets, 50.00%
+  Max Seen   : 1000
+  LLC        : 4
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+               Fri Apr 21 12:45:14 2017
+Network 10: BSSID 04:F0:21:09:7C:A7
+ Manuf      : CompexPt
+ First      : Fri Apr 21 12:45:42 2017
+ Last       : Fri Apr 21 12:45:42 2017
+ Type       : infrastructure
+ BSSID      : 04:F0:21:09:7C:A7
+   SSID 1
+    Type       : Beacon
+    SSID       : "emfdwmn" 
+    First      : Fri Apr 21 12:45:42 2017
+    Last       : Fri Apr 21 12:45:42 2017
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 2
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 3
+ Frequency  : 2422 - 2 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:44:14
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+              Fri Apr 21 12:45:42 2017
+ Client 1: MAC 04:F0:21:09:7C:A7
+  Manuf      : CompexPt
+  First      : Fri Apr 21 12:45:42 2017
+  Last       : Fri Apr 21 12:45:42 2017
+  Type       : From Distribution
+  MAC        : 04:F0:21:09:7C:A7
+  Channel    : 3
+  Frequency  : 2422 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:42 2017
+Network 11: BSSID 06:33:B6:83:8A:0A
+ Manuf      : Unknown
+ First      : Fri Apr 21 12:44:56 2017
+ Last       : Fri Apr 21 12:44:56 2017
+ Type       : probe
+ BSSID      : 06:33:B6:83:8A:0A
+ Channel    : 0
+ Frequency  : 2442 - 2 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:44:56
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+              Fri Apr 21 12:44:56 2017
+ Client 1: MAC 06:33:B6:83:8A:0A
+  Manuf      : Unknown
+  First      : Fri Apr 21 12:44:56 2017
+  Last       : Fri Apr 21 12:44:56 2017
+  Type       : To Distribution
+  MAC        : 06:33:B6:83:8A:0A
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:44:56 2017
+    Last       : Fri Apr 21 12:44:56 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2442 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:44:56 2017
+Network 12: BSSID 10:68:3F:42:A7:FA
+ Manuf      : LgElectr
+ First      : Fri Apr 21 12:45:37 2017
+ Last       : Fri Apr 21 12:45:37 2017
+ Type       : probe
+ BSSID      : 10:68:3F:42:A7:FA
+ Channel    : 0
+ Frequency  : 2462 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:37
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+              Fri Apr 21 12:45:37 2017
+ Client 1: MAC 10:68:3F:42:A7:FA
+  Manuf      : LgElectr
+  First      : Fri Apr 21 12:45:37 2017
+  Last       : Fri Apr 21 12:45:37 2017
+  Type       : To Distribution
+  MAC        : 10:68:3F:42:A7:FA
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:45:37 2017
+    Last       : Fri Apr 21 12:45:37 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:37 2017
+Network 13: BSSID 10:DA:43:E4:0E:B0
+ Manuf      : Netgear
+ First      : Fri Apr 21 12:44:19 2017
+ Last       : Fri Apr 21 12:45:35 2017
+ Type       : infrastructure
+ BSSID      : 10:DA:43:E4:0E:B0
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Fri Apr 21 12:44:19 2017
+    Last       : Fri Apr 21 12:45:35 2017
+    Max Rate   : 300.0
+    Beacon     : 10
+    Packets    : 37
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 10
+ Frequency  : 2452 - 8 packets, 21.62%
+ Frequency  : 2457 - 29 packets, 78.38%
+ Max Seen   : 1000
+ LLC        : 37
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 37
+ Datasize   : 0
+ Last BSSTS : Apr 13 09:57:02
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 37 packets
+              Fri Apr 21 12:45:35 2017
+ Client 1: MAC 10:DA:43:E4:0E:B0
+  Manuf      : Netgear
+  First      : Fri Apr 21 12:44:19 2017
+  Last       : Fri Apr 21 12:45:35 2017
+  Type       : From Distribution
+  MAC        : 10:DA:43:E4:0E:B0
+  Channel    : 10
+  Frequency  : 2452 - 8 packets, 21.62%
+  Frequency  : 2457 - 29 packets, 78.38%
+  Max Seen   : 1000
+  LLC        : 37
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 37
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 37 packets
+               Fri Apr 21 12:45:35 2017
+Network 14: BSSID 1A:99:42:80:AF:F8
+ Manuf      : Unknown
+ First      : Fri Apr 21 12:44:26 2017
+ Last       : Fri Apr 21 12:44:30 2017
+ Type       : probe
+ BSSID      : 1A:99:42:80:AF:F8
+ Channel    : 0
+ Frequency  : 2412 - 2 packets, 22.22%
+ Frequency  : 2417 - 1 packets, 11.11%
+ Frequency  : 2437 - 3 packets, 33.33%
+ Frequency  : 2447 - 3 packets, 33.33%
+ Max Seen   : 1000
+ LLC        : 9
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 9
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:44:30
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 9 packets
+              Fri Apr 21 12:44:30 2017
+ Client 1: MAC 1A:99:42:80:AF:F8
+  Manuf      : Unknown
+  First      : Fri Apr 21 12:44:26 2017
+  Last       : Fri Apr 21 12:44:30 2017
+  Type       : To Distribution
+  MAC        : 1A:99:42:80:AF:F8
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:44:30 2017
+    Last       : Fri Apr 21 12:44:30 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 22.22%
+  Frequency  : 2417 - 1 packets, 11.11%
+  Frequency  : 2437 - 3 packets, 33.33%
+  Frequency  : 2447 - 3 packets, 33.33%
+  Max Seen   : 1000
+  LLC        : 9
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 9
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 9 packets
+               Fri Apr 21 12:44:30 2017
+Network 15: BSSID 1C:E8:5D:CA:8F:32
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:22 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : 1C:E8:5D:CA:8F:32
+   SSID 1
+    Type       : Probe Response
+    SSID       : "eduroam" 
+    Info       : ap19n-1metrotec
+    First      : Fri Apr 21 12:44:22 2017
+    Last       : Fri Apr 21 12:45:43 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 38
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 11
+ Frequency  : 2462 - 38 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 38
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 38
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:54:17
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 38 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC 1C:E8:5D:CA:8F:32
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:22 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : Unknown
+  MAC        : 1C:E8:5D:CA:8F:32
+  Channel    : 11
+  Frequency  : 2462 - 38 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 38
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 38
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 38 packets
+               Fri Apr 21 12:45:43 2017
+Network 16: BSSID 1C:E8:5D:CA:8F:33
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:22 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : 1C:E8:5D:CA:8F:33
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyu-legacy" 
+    Info       : ap19n-1metrotec
+    First      : Fri Apr 21 12:44:22 2017
+    Last       : Fri Apr 21 12:45:43 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 43
+    WPS        : No
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 11
+ Frequency  : 2462 - 43 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 43
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 43
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:54:17
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 43 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC 1C:E8:5D:CA:8F:33
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:22 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : From Distribution
+  MAC        : 1C:E8:5D:CA:8F:33
+  Channel    : 11
+  Frequency  : 2462 - 43 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 43
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 43
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 43 packets
+               Fri Apr 21 12:45:43 2017
+Network 17: BSSID 1C:E8:5D:CA:8F:36
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:22 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : 1C:E8:5D:CA:8F:36
+   SSID 1
+    Type       : Probe Response
+    SSID       : "nyuguest-legacy" 
+    Info       : ap19n-1metrotec
+    First      : Fri Apr 21 12:44:22 2017
+    Last       : Fri Apr 21 12:45:43 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 36
+    WPS        : No
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 36 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 36
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 36
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:54:17
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 36 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC 1C:E8:5D:CA:8F:36
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:22 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : Unknown
+  MAC        : 1C:E8:5D:CA:8F:36
+  Channel    : 11
+  Frequency  : 2462 - 36 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 36
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 36
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 36 packets
+               Fri Apr 21 12:45:43 2017
+Network 18: BSSID 24:A4:3C:B2:8B:CC
+ Manuf      : Ubiquiti
+ First      : Fri Apr 21 12:44:23 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : 24:A4:3C:B2:8B:CC
+   SSID 1
+    Type       : Beacon
+    SSID       : "be@schermerhorn" 
+    First      : Fri Apr 21 12:44:23 2017
+    Last       : Fri Apr 21 12:45:43 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 3
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 11
+ Frequency  : 2462 - 3 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 3
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 0
+ Last BSSTS : Apr 18 09:19:36
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC 24:A4:3C:B2:8B:CC
+  Manuf      : Ubiquiti
+  First      : Fri Apr 21 12:44:23 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : From Distribution
+  MAC        : 24:A4:3C:B2:8B:CC
+  Channel    : 11
+  Frequency  : 2462 - 3 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 3
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:45:43 2017
+Network 19: BSSID 24:C9:A1:32:91:18
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:23 2017
+ Last       : Fri Apr 21 12:45:03 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:32:91:18
+   SSID 1
+    Type       : Probe Response
+    SSID       : "CableWiFi" 
+    First      : Fri Apr 21 12:44:23 2017
+    Last       : Fri Apr 21 12:45:03 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 4
+    WPS        : No
+    Encryption : None
+ Channel    : 4
+ Frequency  : 2427 - 4 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 4
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 4
+ Datasize   : 0
+ Last BSSTS : Apr 21 11:50:36
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+              Fri Apr 21 12:45:03 2017
+ Client 1: MAC 24:C9:A1:32:91:18
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:23 2017
+  Last       : Fri Apr 21 12:45:03 2017
+  Type       : Unknown
+  MAC        : 24:C9:A1:32:91:18
+  Channel    : 4
+  Frequency  : 2427 - 4 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 4
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+               Fri Apr 21 12:45:03 2017
+Network 20: BSSID 24:C9:A1:38:B0:A8
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:21 2017
+ Last       : Fri Apr 21 12:45:02 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:38:B0:A8
+   SSID 1
+    Type       : Beacon
+    SSID       : "CableWiFi" 
+    First      : Fri Apr 21 12:44:21 2017
+    Last       : Fri Apr 21 12:45:02 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 36
+    WPS        : No
+    Encryption : None
+ Channel    : 3
+ Frequency  : 2422 - 36 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 36
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 36
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:28:32
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 36 packets
+              Fri Apr 21 12:45:02 2017
+ Client 1: MAC 24:C9:A1:38:B0:A8
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:21 2017
+  Last       : Fri Apr 21 12:45:02 2017
+  Type       : From Distribution
+  MAC        : 24:C9:A1:38:B0:A8
+  Channel    : 3
+  Frequency  : 2422 - 36 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 36
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 36
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 36 packets
+               Fri Apr 21 12:45:02 2017
+Network 21: BSSID 24:C9:A1:3A:E5:28
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:35 2017
+ Last       : Fri Apr 21 12:44:56 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:3A:E5:28
+   SSID 1
+    Type       : Probe Response
+    SSID       : "CableWiFi" 
+    First      : Fri Apr 21 12:44:35 2017
+    Last       : Fri Apr 21 12:44:56 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 5
+    WPS        : No
+    Encryption : None
+ Channel    : 7
+ Frequency  : 2442 - 5 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 5
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 0
+ Last BSSTS : Apr 21 11:44:44
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+              Fri Apr 21 12:44:56 2017
+ Client 1: MAC 24:C9:A1:3A:E5:28
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:35 2017
+  Last       : Fri Apr 21 12:44:56 2017
+  Type       : Unknown
+  MAC        : 24:C9:A1:3A:E5:28
+  Channel    : 7
+  Frequency  : 2442 - 5 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 5
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+               Fri Apr 21 12:44:56 2017
+Network 22: BSSID 24:C9:A1:72:91:18
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:23 2017
+ Last       : Fri Apr 21 12:45:44 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:72:91:18
+   SSID 1
+    Type       : Beacon
+    SSID       : "DowntownBrooklynWiFi_Fon" 
+    First      : Fri Apr 21 12:44:23 2017
+    Last       : Fri Apr 21 12:45:44 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 8
+    WPS        : No
+    Encryption : None
+ Channel    : 4
+ Frequency  : 2427 - 8 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 8
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 8
+ Datasize   : 0
+ Last BSSTS : Apr 21 11:50:37
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 8 packets
+              Fri Apr 21 12:45:44 2017
+ Client 1: MAC 24:C9:A1:72:91:18
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:23 2017
+  Last       : Fri Apr 21 12:45:44 2017
+  Type       : From Distribution
+  MAC        : 24:C9:A1:72:91:18
+  Channel    : 4
+  Frequency  : 2427 - 8 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 8
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 8 packets
+               Fri Apr 21 12:45:44 2017
+Network 23: BSSID 24:C9:A1:78:B0:A8
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:22 2017
+ Last       : Fri Apr 21 12:45:02 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:78:B0:A8
+   SSID 1
+    Type       : Probe Response
+    SSID       : "DowntownBrooklynWiFi_Fon" 
+    First      : Fri Apr 21 12:44:22 2017
+    Last       : Fri Apr 21 12:45:02 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 23
+    WPS        : No
+    Encryption : None
+ Channel    : 3
+ Frequency  : 2422 - 23 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 23
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 23
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:28:32
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 23 packets
+              Fri Apr 21 12:45:02 2017
+ Client 1: MAC 24:C9:A1:78:B0:A8
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:22 2017
+  Last       : Fri Apr 21 12:45:02 2017
+  Type       : Unknown
+  MAC        : 24:C9:A1:78:B0:A8
+  Channel    : 3
+  Frequency  : 2422 - 23 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 23
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 23
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 23 packets
+               Fri Apr 21 12:45:02 2017
+Network 24: BSSID 24:C9:A1:7A:E5:28
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:35 2017
+ Last       : Fri Apr 21 12:45:31 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:7A:E5:28
+   SSID 1
+    Type       : Probe Response
+    SSID       : "DowntownBrooklynWiFi_Fon" 
+    First      : Fri Apr 21 12:44:35 2017
+    Last       : Fri Apr 21 12:45:07 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 4
+    WPS        : No
+    Encryption : None
+ Channel    : 7
+ Frequency  : 2442 - 7 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 4
+ Data       : 3
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 7
+ Datasize   : 264
+ Last BSSTS : Apr 21 11:45:08
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 7 packets
+              Fri Apr 21 12:45:31 2017
+ Client 1: MAC 24:C9:A1:7A:E5:28
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:35 2017
+  Last       : Fri Apr 21 12:45:07 2017
+  Type       : Unknown
+  MAC        : 24:C9:A1:7A:E5:28
+  Channel    : 7
+  Frequency  : 2442 - 4 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 4
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+               Fri Apr 21 12:45:07 2017
+ Client 2: MAC 4C:74:BF:7E:A5:C2
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:31 2017
+  Last       : Fri Apr 21 12:45:31 2017
+  Type       : From Distribution
+  MAC        : 4C:74:BF:7E:A5:C2
+  Channel    : 0
+  Frequency  : 2442 - 1 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 88
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:31 2017
+ Client 3: MAC 5C:CA:1A:4C:02:C4
+  Manuf      : Microsof
+  First      : Fri Apr 21 12:45:31 2017
+  Last       : Fri Apr 21 12:45:31 2017
+  Type       : From Distribution
+  MAC        : 5C:CA:1A:4C:02:C4
+  Channel    : 0
+  Frequency  : 2442 - 2 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 2
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 176
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:31 2017
+Network 25: BSSID 24:C9:A1:B2:91:18
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:23 2017
+ Last       : Fri Apr 21 12:45:44 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:B2:91:18
+   SSID 1
+    Type       : Beacon
+    SSID       : "TWCWiFi" 
+    First      : Fri Apr 21 12:44:23 2017
+    Last       : Fri Apr 21 12:45:44 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 6
+    WPS        : No
+    Encryption : None
+ Channel    : 4
+ Frequency  : 2427 - 6 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 6
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 6
+ Datasize   : 0
+ Last BSSTS : Apr 21 11:50:37
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 6 packets
+              Fri Apr 21 12:45:44 2017
+ Client 1: MAC 24:C9:A1:B2:91:18
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:23 2017
+  Last       : Fri Apr 21 12:45:44 2017
+  Type       : From Distribution
+  MAC        : 24:C9:A1:B2:91:18
+  Channel    : 4
+  Frequency  : 2427 - 6 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 6
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 6
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 6 packets
+               Fri Apr 21 12:45:44 2017
+Network 26: BSSID 24:C9:A1:B8:B0:A8
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:21 2017
+ Last       : Fri Apr 21 12:45:02 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:B8:B0:A8
+   SSID 1
+    Type       : Probe Response
+    SSID       : "TWCWiFi" 
+    First      : Fri Apr 21 12:44:22 2017
+    Last       : Fri Apr 21 12:45:02 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 32
+    WPS        : No
+    Encryption : None
+ Channel    : 3
+ Frequency  : 2422 - 34 packets, 100.00%
+ Max Seen   : 12000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ Encoding   : PBCC
+ LLC        : 32
+ Data       : 2
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 34
+ Datasize   : 176
+ Last BSSTS : Apr 21 12:28:32
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 34 packets
+              Fri Apr 21 12:45:02 2017
+ Client 1: MAC 24:C9:A1:B8:B0:A8
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:22 2017
+  Last       : Fri Apr 21 12:45:02 2017
+  Type       : Unknown
+  MAC        : 24:C9:A1:B8:B0:A8
+  Channel    : 3
+  Frequency  : 2422 - 32 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 32
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 32
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 32 packets
+               Fri Apr 21 12:45:02 2017
+ Client 2: MAC C4:21:C8:25:81:8F
+  Manuf      : Kyocera
+  First      : Fri Apr 21 12:44:50 2017
+  Last       : Fri Apr 21 12:44:50 2017
+  Type       : From Distribution
+  MAC        : C4:21:C8:25:81:8F
+  Channel    : 0
+  Frequency  : 2422 - 1 packets, 100.00%
+  Max Seen   : 12000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 88
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:50 2017
+ Client 3: MAC D0:FC:CC:69:3F:E7
+  Manuf      : SamsungE
+  First      : Fri Apr 21 12:44:21 2017
+  Last       : Fri Apr 21 12:44:21 2017
+  Type       : From Distribution
+  MAC        : D0:FC:CC:69:3F:E7
+  Channel    : 0
+  Frequency  : 2422 - 1 packets, 100.00%
+  Max Seen   : 0
+  Carrier    : IEEE 802.11b+
+  Encoding   : PBCC
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 88
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:21 2017
+Network 27: BSSID 24:C9:A1:BA:E5:28
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:35 2017
+ Last       : Fri Apr 21 12:45:07 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:BA:E5:28
+   SSID 1
+    Type       : Probe Response
+    SSID       : "TWCWiFi" 
+    First      : Fri Apr 21 12:44:35 2017
+    Last       : Fri Apr 21 12:45:07 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 5
+    WPS        : No
+    Encryption : None
+ Channel    : 7
+ Frequency  : 2442 - 5 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 5
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 0
+ Last BSSTS : Apr 21 11:44:44
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+              Fri Apr 21 12:45:07 2017
+ Client 1: MAC 24:C9:A1:BA:E5:28
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:35 2017
+  Last       : Fri Apr 21 12:45:07 2017
+  Type       : Unknown
+  MAC        : 24:C9:A1:BA:E5:28
+  Channel    : 7
+  Frequency  : 2442 - 5 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 5
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+               Fri Apr 21 12:45:07 2017
+Network 28: BSSID 24:C9:A1:F2:91:18
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:23 2017
+ Last       : Fri Apr 21 12:44:57 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:F2:91:18
+   SSID 1
+    Type       : Beacon
+    SSID       : "TWCWiFi-Passpoint" 
+    First      : Fri Apr 21 12:44:23 2017
+    Last       : Fri Apr 21 12:44:57 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 5
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 4
+ Frequency  : 2427 - 5 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 5
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 0
+ Last BSSTS : Apr 21 11:50:36
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+              Fri Apr 21 12:44:57 2017
+ Client 1: MAC 24:C9:A1:F2:91:18
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:23 2017
+  Last       : Fri Apr 21 12:44:57 2017
+  Type       : From Distribution
+  MAC        : 24:C9:A1:F2:91:18
+  Channel    : 4
+  Frequency  : 2427 - 5 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 5
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+               Fri Apr 21 12:44:57 2017
+Network 29: BSSID 24:C9:A1:F8:B0:A8
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:21 2017
+ Last       : Fri Apr 21 12:45:02 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:F8:B0:A8
+   SSID 1
+    Type       : Beacon
+    SSID       : "TWCWiFi-Passpoint" 
+    First      : Fri Apr 21 12:44:21 2017
+    Last       : Fri Apr 21 12:45:02 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 24
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 3
+ Frequency  : 2422 - 24 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 24
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 24
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:28:32
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 24 packets
+              Fri Apr 21 12:45:02 2017
+ Client 1: MAC 24:C9:A1:F8:B0:A8
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:21 2017
+  Last       : Fri Apr 21 12:45:02 2017
+  Type       : From Distribution
+  MAC        : 24:C9:A1:F8:B0:A8
+  Channel    : 3
+  Frequency  : 2422 - 24 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 24
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 24
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 24 packets
+               Fri Apr 21 12:45:02 2017
+Network 30: BSSID 24:C9:A1:FA:E5:28
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:35 2017
+ Last       : Fri Apr 21 12:44:35 2017
+ Type       : infrastructure
+ BSSID      : 24:C9:A1:FA:E5:28
+   SSID 1
+    Type       : Probe Response
+    SSID       : "TWCWiFi-Passpoint" 
+    First      : Fri Apr 21 12:44:35 2017
+    Last       : Fri Apr 21 12:44:35 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 2
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 0
+ Frequency  : 2442 - 2 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : Apr 21 11:44:46
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+              Fri Apr 21 12:44:35 2017
+ Client 1: MAC 24:C9:A1:FA:E5:28
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:35 2017
+  Last       : Fri Apr 21 12:44:35 2017
+  Type       : Unknown
+  MAC        : 24:C9:A1:FA:E5:28
+  Channel    : 0
+  Frequency  : 2442 - 2 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:44:35 2017
+Network 31: BSSID 26:A4:3C:B2:8B:CC
+ Manuf      : Unknown
+ First      : Fri Apr 21 12:44:28 2017
+ Last       : Fri Apr 21 12:45:37 2017
+ Type       : infrastructure
+ BSSID      : 26:A4:3C:B2:8B:CC
+   SSID 1
+    Type       : Beacon
+    SSID       : "be@schermerhorn-Public" 
+    First      : Fri Apr 21 12:44:28 2017
+    Last       : Fri Apr 21 12:45:37 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 3
+    WPS        : No
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 3 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 3
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 0
+ Last BSSTS : Apr 18 09:19:36
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+              Fri Apr 21 12:45:37 2017
+ Client 1: MAC 26:A4:3C:B2:8B:CC
+  Manuf      : Unknown
+  First      : Fri Apr 21 12:44:28 2017
+  Last       : Fri Apr 21 12:45:37 2017
+  Type       : From Distribution
+  MAC        : 26:A4:3C:B2:8B:CC
+  Channel    : 11
+  Frequency  : 2462 - 3 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 3
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:45:37 2017
+Network 32: BSSID 34:12:98:08:52:A8
+ Manuf      : Apple
+ First      : Fri Apr 21 12:44:22 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : 34:12:98:08:52:A8
+   SSID 1
+    Type       : Beacon
+    SSID       : "Stanislav's Wi-Fi Network" 
+    First      : Fri Apr 21 12:44:22 2017
+    Last       : Fri Apr 21 12:45:43 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 19
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 11
+ Frequency  : 2462 - 41 packets, 100.00%
+ Max Seen   : 2000
+ LLC        : 19
+ Data       : 22
+ Crypt      : 22
+ Fragments  : 0
+ Retries    : 0
+ Total      : 41
+ Datasize   : 3178
+ Last BSSTS : Nov  2 18:02:58
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 41 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC 00:00:5E:00:01:7F
+  Manuf      : USDepart
+  First      : Fri Apr 21 12:44:29 2017
+  Last       : Fri Apr 21 12:45:37 2017
+  Type       : From Distribution
+  MAC        : 00:00:5E:00:01:7F
+  Channel    : 0
+  Frequency  : 2462 - 5 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 5
+  Crypt      : 5
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 500
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+               Fri Apr 21 12:45:37 2017
+ Client 2: MAC 10:9A:DD:42:2A:F8
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:31 2017
+  Last       : Fri Apr 21 12:45:31 2017
+  Type       : From Distribution
+  MAC        : 10:9A:DD:42:2A:F8
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 251
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:31 2017
+ Client 3: MAC 34:12:98:08:52:A8
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:22 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : From Distribution
+  MAC        : 34:12:98:08:52:A8
+  Channel    : 11
+  Frequency  : 2462 - 19 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 19
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 19
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 19 packets
+               Fri Apr 21 12:45:43 2017
+ Client 4: MAC 38:C9:86:31:22:8C
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:37 2017
+  Last       : Fri Apr 21 12:45:37 2017
+  Type       : From Distribution
+  MAC        : 38:C9:86:31:22:8C
+  Channel    : 0
+  Frequency  : 2462 - 2 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 252
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:37 2017
+ Client 5: MAC 60:A4:4C:61:03:73
+  Manuf      : AsustekC
+  First      : Fri Apr 21 12:44:40 2017
+  Last       : Fri Apr 21 12:44:40 2017
+  Type       : From Distribution
+  MAC        : 60:A4:4C:61:03:73
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:40 2017
+ Client 6: MAC 6C:0B:84:25:6E:FD
+  Manuf      : Universa
+  First      : Fri Apr 21 12:45:02 2017
+  Last       : Fri Apr 21 12:45:02 2017
+  Type       : From Distribution
+  MAC        : 6C:0B:84:25:6E:FD
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 250
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:02 2017
+ Client 7: MAC 6C:3B:E5:19:25:53
+  Manuf      : HewlettP
+  First      : Fri Apr 21 12:44:28 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : From Distribution
+  MAC        : 6C:3B:E5:19:25:53
+  Channel    : 0
+  Frequency  : 2462 - 3 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 3
+  Crypt      : 3
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 378
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:45:43 2017
+ Client 8: MAC 74:D0:2B:0A:5C:ED
+  Manuf      : AsustekC
+  First      : Fri Apr 21 12:45:02 2017
+  Last       : Fri Apr 21 12:45:02 2017
+  Type       : From Distribution
+  MAC        : 74:D0:2B:0A:5C:ED
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 248
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:02 2017
+ Client 9: MAC 84:7B:EB:2D:19:7D
+  Manuf      : Dell
+  First      : Fri Apr 21 12:44:35 2017
+  Last       : Fri Apr 21 12:44:35 2017
+  Type       : From Distribution
+  MAC        : 84:7B:EB:2D:19:7D
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 352
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:35 2017
+ Client 10: MAC 88:75:56:3D:31:C0
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:35 2017
+  Last       : Fri Apr 21 12:45:37 2017
+  Type       : From Distribution
+  MAC        : 88:75:56:3D:31:C0
+  Channel    : 0
+  Frequency  : 2462 - 4 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 4
+  Crypt      : 4
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 376
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+               Fri Apr 21 12:45:37 2017
+ Client 11: MAC A2:41:00:00:00:04
+  Manuf      : Unknown
+  First      : Fri Apr 21 12:44:57 2017
+  Last       : Fri Apr 21 12:44:57 2017
+  Type       : From Distribution
+  MAC        : A2:41:00:00:00:04
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:57 2017
+ Client 12: MAC B8:CA:3A:8E:8F:33
+  Manuf      : Dell
+  First      : Fri Apr 21 12:45:02 2017
+  Last       : Fri Apr 21 12:45:02 2017
+  Type       : From Distribution
+  MAC        : B8:CA:3A:8E:8F:33
+  Channel    : 0
+  Frequency  : 2462 - 2 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 383
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:02 2017
+Network 33: BSSID 34:F3:9A:65:DD:F8
+ Manuf      : IntelCor
+ First      : Fri Apr 21 12:44:26 2017
+ Last       : Fri Apr 21 12:44:26 2017
+ Type       : probe
+ BSSID      : 34:F3:9A:65:DD:F8
+ Channel    : 0
+ Frequency  : 2437 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:44:26
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+              Fri Apr 21 12:44:26 2017
+ Client 1: MAC 34:F3:9A:65:DD:F8
+  Manuf      : IntelCor
+  First      : Fri Apr 21 12:44:26 2017
+  Last       : Fri Apr 21 12:44:26 2017
+  Type       : To Distribution
+  MAC        : 34:F3:9A:65:DD:F8
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:44:26 2017
+    Last       : Fri Apr 21 12:44:26 2017
+    Max Rate   : 300.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:26 2017
+Network 34: BSSID 36:A4:3C:B2:8B:CC
+ Manuf      : Unknown
+ First      : Fri Apr 21 12:44:23 2017
+ Last       : Fri Apr 21 12:45:37 2017
+ Type       : infrastructure
+ BSSID      : 36:A4:3C:B2:8B:CC
+   SSID 1
+    Type       : Beacon
+    SSID       : "be@schermerhorn_Residence" 
+    First      : Fri Apr 21 12:44:23 2017
+    Last       : Fri Apr 21 12:45:37 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 5
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 11
+ Frequency  : 2462 - 5 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 5
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 0
+ Last BSSTS : Apr 18 09:19:35
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+              Fri Apr 21 12:45:37 2017
+ Client 1: MAC 36:A4:3C:B2:8B:CC
+  Manuf      : Unknown
+  First      : Fri Apr 21 12:44:23 2017
+  Last       : Fri Apr 21 12:45:37 2017
+  Type       : From Distribution
+  MAC        : 36:A4:3C:B2:8B:CC
+  Channel    : 11
+  Frequency  : 2462 - 5 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 5
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+               Fri Apr 21 12:45:37 2017
+Network 35: BSSID 38:2C:4A:A2:EE:D6
+ Manuf      : AsustekC
+ First      : Fri Apr 21 12:44:19 2017
+ Last       : Fri Apr 21 12:45:44 2017
+ Type       : infrastructure
+ BSSID      : 38:2C:4A:A2:EE:D6
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Fri Apr 21 12:44:19 2017
+    Last       : Fri Apr 21 12:45:44 2017
+    Max Rate   : 300.0
+    Beacon     : 10
+    Packets    : 60
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 8
+ Frequency  : 2442 - 18 packets, 30.00%
+ Frequency  : 2447 - 28 packets, 46.67%
+ Frequency  : 2452 - 14 packets, 23.33%
+ Max Seen   : 1000
+ LLC        : 60
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 60
+ Datasize   : 0
+ Last BSSTS : Apr 10 16:18:26
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 60 packets
+              Fri Apr 21 12:45:44 2017
+ Client 1: MAC 38:2C:4A:A2:EE:D6
+  Manuf      : AsustekC
+  First      : Fri Apr 21 12:44:19 2017
+  Last       : Fri Apr 21 12:45:44 2017
+  Type       : From Distribution
+  MAC        : 38:2C:4A:A2:EE:D6
+  Channel    : 8
+  Frequency  : 2442 - 18 packets, 30.00%
+  Frequency  : 2447 - 28 packets, 46.67%
+  Frequency  : 2452 - 14 packets, 23.33%
+  Max Seen   : 1000
+  LLC        : 60
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 60
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 60 packets
+               Fri Apr 21 12:45:44 2017
+Network 36: BSSID 54:DC:1D:5D:81:16
+ Manuf      : YulongCo
+ First      : Fri Apr 21 12:44:25 2017
+ Last       : Fri Apr 21 12:45:06 2017
+ Type       : probe
+ BSSID      : 54:DC:1D:5D:81:16
+ Channel    : 0
+ Frequency  : 2437 - 1 packets, 33.33%
+ Frequency  : 2452 - 2 packets, 66.67%
+ Max Seen   : 1000
+ LLC        : 3
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:06
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+              Fri Apr 21 12:45:06 2017
+ Client 1: MAC 54:DC:1D:5D:81:16
+  Manuf      : YulongCo
+  First      : Fri Apr 21 12:44:25 2017
+  Last       : Fri Apr 21 12:45:06 2017
+  Type       : To Distribution
+  MAC        : 54:DC:1D:5D:81:16
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:44:25 2017
+    Last       : Fri Apr 21 12:44:25 2017
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 2
+    Type       : Probe Request
+    SSID       : Babe
+    First      : Fri Apr 21 12:45:06 2017
+    Last       : Fri Apr 21 12:45:06 2017
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 33.33%
+  Frequency  : 2452 - 2 packets, 66.67%
+  Max Seen   : 1000
+  LLC        : 3
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:45:06 2017
+Network 37: BSSID 60:F8:1D:B9:57:92
+ Manuf      : Apple
+ First      : Fri Apr 21 12:45:30 2017
+ Last       : Fri Apr 21 12:45:30 2017
+ Type       : probe
+ BSSID      : 60:F8:1D:B9:57:92
+ Channel    : 0
+ Frequency  : 2422 - 4 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 4
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 4
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:30
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+              Fri Apr 21 12:45:30 2017
+ Client 1: MAC 60:F8:1D:B9:57:92
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:30 2017
+  Last       : Fri Apr 21 12:45:30 2017
+  Type       : To Distribution
+  MAC        : 60:F8:1D:B9:57:92
+   SSID 1
+    Type       : Probe Request
+    SSID       : eduroam
+    First      : Fri Apr 21 12:45:30 2017
+    Last       : Fri Apr 21 12:45:30 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2422 - 4 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 4
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+               Fri Apr 21 12:45:30 2017
+Network 38: BSSID 64:BC:0C:50:DC:AD
+ Manuf      : LgElectr
+ First      : Fri Apr 21 12:44:58 2017
+ Last       : Fri Apr 21 12:45:30 2017
+ Type       : probe
+ BSSID      : 64:BC:0C:50:DC:AD
+ Channel    : 0
+ Frequency  : 2412 - 5 packets, 16.67%
+ Frequency  : 2417 - 2 packets, 6.67%
+ Frequency  : 2432 - 4 packets, 13.33%
+ Frequency  : 2437 - 5 packets, 16.67%
+ Frequency  : 2447 - 4 packets, 13.33%
+ Frequency  : 2452 - 3 packets, 10.00%
+ Frequency  : 2457 - 7 packets, 23.33%
+ Max Seen   : 1000
+ LLC        : 30
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 30
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:30
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 30 packets
+              Fri Apr 21 12:45:30 2017
+ Client 1: MAC 64:BC:0C:50:DC:AD
+  Manuf      : LgElectr
+  First      : Fri Apr 21 12:44:58 2017
+  Last       : Fri Apr 21 12:45:30 2017
+  Type       : To Distribution
+  MAC        : 64:BC:0C:50:DC:AD
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:45:30 2017
+    Last       : Fri Apr 21 12:45:30 2017
+    Max Rate   : 300.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2412 - 5 packets, 16.67%
+  Frequency  : 2417 - 2 packets, 6.67%
+  Frequency  : 2432 - 4 packets, 13.33%
+  Frequency  : 2437 - 5 packets, 16.67%
+  Frequency  : 2447 - 4 packets, 13.33%
+  Frequency  : 2452 - 3 packets, 10.00%
+  Frequency  : 2457 - 7 packets, 23.33%
+  Max Seen   : 1000
+  LLC        : 30
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 30
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 30 packets
+               Fri Apr 21 12:45:30 2017
+Network 39: BSSID 68:72:51:06:B9:45
+ Manuf      : Ubiquiti
+ First      : Fri Apr 21 12:44:27 2017
+ Last       : Fri Apr 21 12:45:30 2017
+ Type       : infrastructure
+ BSSID      : 68:72:51:06:B9:45
+   SSID 1
+    Type       : Beacon
+    SSID       : "nw" 
+    First      : Fri Apr 21 12:44:27 2017
+    Last       : Fri Apr 21 12:45:30 2017
+    Max Rate   : 65.0
+    Beacon     : 10
+    Packets    : 8
+    WPS        : No
+    Encryption : None
+ Channel    : 3
+ Frequency  : 2422 - 8 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 8
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 8
+ Datasize   : 0
+ Last BSSTS : Apr 19 08:57:25
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 8 packets
+              Fri Apr 21 12:45:30 2017
+ Client 1: MAC 68:72:51:06:B9:45
+  Manuf      : Ubiquiti
+  First      : Fri Apr 21 12:44:27 2017
+  Last       : Fri Apr 21 12:45:30 2017
+  Type       : From Distribution
+  MAC        : 68:72:51:06:B9:45
+  Channel    : 3
+  Frequency  : 2422 - 8 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 8
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 8 packets
+               Fri Apr 21 12:45:30 2017
+Network 40: BSSID 6C:AA:B3:26:7B:C8
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:19 2017
+ Last       : Fri Apr 21 12:45:39 2017
+ Type       : infrastructure
+ BSSID      : 6C:AA:B3:26:7B:C8
+   SSID 1
+    Type       : Beacon
+    SSID       : "CableWiFi" 
+    First      : Fri Apr 21 12:44:19 2017
+    Last       : Fri Apr 21 12:45:39 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 58
+    WPS        : No
+    Encryption : None
+ Channel    : 9
+ Frequency  : 2452 - 58 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 58
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 58
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:24:50
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 58 packets
+              Fri Apr 21 12:45:39 2017
+ Client 1: MAC 6C:AA:B3:26:7B:C8
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:19 2017
+  Last       : Fri Apr 21 12:45:39 2017
+  Type       : From Distribution
+  MAC        : 6C:AA:B3:26:7B:C8
+  Channel    : 9
+  Frequency  : 2452 - 58 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 58
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 58
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 58 packets
+               Fri Apr 21 12:45:39 2017
+Network 41: BSSID 6C:AA:B3:66:7B:C8
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:19 2017
+ Last       : Fri Apr 21 12:45:39 2017
+ Type       : infrastructure
+ BSSID      : 6C:AA:B3:66:7B:C8
+   SSID 1
+    Type       : Beacon
+    SSID       : "TWCWiFi" 
+    First      : Fri Apr 21 12:44:19 2017
+    Last       : Fri Apr 21 12:45:39 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 60
+    WPS        : No
+    Encryption : None
+ Channel    : 9
+ Frequency  : 2452 - 60 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 60
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 60
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:24:50
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 60 packets
+              Fri Apr 21 12:45:39 2017
+ Client 1: MAC 6C:AA:B3:66:7B:C8
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:19 2017
+  Last       : Fri Apr 21 12:45:39 2017
+  Type       : From Distribution
+  MAC        : 6C:AA:B3:66:7B:C8
+  Channel    : 9
+  Frequency  : 2452 - 60 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 60
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 60
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 60 packets
+               Fri Apr 21 12:45:39 2017
+Network 42: BSSID 6C:AA:B3:A6:7B:C8
+ Manuf      : RuckusWi
+ First      : Fri Apr 21 12:44:19 2017
+ Last       : Fri Apr 21 12:45:39 2017
+ Type       : infrastructure
+ BSSID      : 6C:AA:B3:A6:7B:C8
+   SSID 1
+    Type       : Beacon
+    SSID       : "TWCWiFi-Passpoint" 
+    First      : Fri Apr 21 12:44:19 2017
+    Last       : Fri Apr 21 12:45:39 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 61
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 9
+ Frequency  : 2452 - 61 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 61
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 61
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:24:50
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 61 packets
+              Fri Apr 21 12:45:39 2017
+ Client 1: MAC 6C:AA:B3:A6:7B:C8
+  Manuf      : RuckusWi
+  First      : Fri Apr 21 12:44:19 2017
+  Last       : Fri Apr 21 12:45:39 2017
+  Type       : From Distribution
+  MAC        : 6C:AA:B3:A6:7B:C8
+  Channel    : 9
+  Frequency  : 2452 - 61 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 61
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 61
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 61 packets
+               Fri Apr 21 12:45:39 2017
+Network 43: BSSID 70:EC:E4:66:5B:4F
+ Manuf      : Apple
+ First      : Fri Apr 21 12:44:56 2017
+ Last       : Fri Apr 21 12:44:56 2017
+ Type       : probe
+ BSSID      : 70:EC:E4:66:5B:4F
+ Channel    : 0
+ Frequency  : 2442 - 4 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 4
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 4
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:44:56
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+              Fri Apr 21 12:44:56 2017
+ Client 1: MAC 70:EC:E4:66:5B:4F
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:56 2017
+  Last       : Fri Apr 21 12:44:56 2017
+  Type       : To Distribution
+  MAC        : 70:EC:E4:66:5B:4F
+   SSID 1
+    Type       : Probe Request
+    SSID       : nyu
+    First      : Fri Apr 21 12:44:56 2017
+    Last       : Fri Apr 21 12:44:56 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2442 - 4 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 4
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+               Fri Apr 21 12:44:56 2017
+Network 44: BSSID 74:DA:38:5C:68:2C
+ Manuf      : EdimaxTe
+ First      : Fri Apr 21 12:44:20 2017
+ Last       : Fri Apr 21 12:45:28 2017
+ Type       : probe
+ BSSID      : 74:DA:38:5C:68:2C
+ Channel    : 0
+ Frequency  : 2412 - 2 packets, 8.33%
+ Frequency  : 2417 - 4 packets, 16.67%
+ Frequency  : 2427 - 2 packets, 8.33%
+ Frequency  : 2437 - 2 packets, 8.33%
+ Frequency  : 2447 - 5 packets, 20.83%
+ Frequency  : 2452 - 5 packets, 20.83%
+ Frequency  : 2457 - 4 packets, 16.67%
+ Max Seen   : 1000
+ LLC        : 24
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 24
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:28
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 24 packets
+              Fri Apr 21 12:45:28 2017
+ Client 1: MAC 74:DA:38:5C:68:2C
+  Manuf      : EdimaxTe
+  First      : Fri Apr 21 12:44:20 2017
+  Last       : Fri Apr 21 12:45:28 2017
+  Type       : To Distribution
+  MAC        : 74:DA:38:5C:68:2C
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:45:28 2017
+    Last       : Fri Apr 21 12:45:28 2017
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 8.33%
+  Frequency  : 2417 - 4 packets, 16.67%
+  Frequency  : 2427 - 2 packets, 8.33%
+  Frequency  : 2437 - 2 packets, 8.33%
+  Frequency  : 2447 - 5 packets, 20.83%
+  Frequency  : 2452 - 5 packets, 20.83%
+  Frequency  : 2457 - 4 packets, 16.67%
+  Max Seen   : 1000
+  LLC        : 24
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 24
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 24 packets
+               Fri Apr 21 12:45:28 2017
+Network 45: BSSID 74:E5:0B:A6:DE:9E
+ Manuf      : IntelCor
+ First      : Fri Apr 21 12:44:25 2017
+ Last       : Fri Apr 21 12:45:30 2017
+ Type       : probe
+ BSSID      : 74:E5:0B:A6:DE:9E
+ Channel    : 0
+ Frequency  : 2452 - 3 packets, 75.00%
+ Frequency  : 2457 - 1 packets, 25.00%
+ Max Seen   : 1000
+ LLC        : 4
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 4
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:30
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+              Fri Apr 21 12:45:30 2017
+ Client 1: MAC 74:E5:0B:A6:DE:9E
+  Manuf      : IntelCor
+  First      : Fri Apr 21 12:44:25 2017
+  Last       : Fri Apr 21 12:45:30 2017
+  Type       : To Distribution
+  MAC        : 74:E5:0B:A6:DE:9E
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:45:30 2017
+    Last       : Fri Apr 21 12:45:30 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 2
+    Type       : Probe Request
+    SSID       : nyuguest-legacy
+    First      : Fri Apr 21 12:44:25 2017
+    Last       : Fri Apr 21 12:44:25 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2452 - 3 packets, 75.00%
+  Frequency  : 2457 - 1 packets, 25.00%
+  Max Seen   : 1000
+  LLC        : 4
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+               Fri Apr 21 12:45:30 2017
+Network 46: BSSID 78:D7:5F:7A:F5:E7
+ Manuf      : Apple
+ First      : Fri Apr 21 12:45:03 2017
+ Last       : Fri Apr 21 12:45:03 2017
+ Type       : probe
+ BSSID      : 78:D7:5F:7A:F5:E7
+ Channel    : 0
+ Frequency  : 2447 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:03
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+              Fri Apr 21 12:45:03 2017
+ Client 1: MAC 78:D7:5F:7A:F5:E7
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:03 2017
+  Last       : Fri Apr 21 12:45:03 2017
+  Type       : To Distribution
+  MAC        : 78:D7:5F:7A:F5:E7
+   SSID 1
+    Type       : Probe Request
+    SSID       : nyu
+    First      : Fri Apr 21 12:45:03 2017
+    Last       : Fri Apr 21 12:45:03 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2447 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:03 2017
+Network 47: BSSID 7C:E9:D3:97:C3:EF
+ Manuf      : HonHaiPr
+ First      : Fri Apr 21 12:44:27 2017
+ Last       : Fri Apr 21 12:45:29 2017
+ Type       : infrastructure
+ BSSID      : 7C:E9:D3:97:C3:EF
+   SSID 1
+    Type       : Beacon
+    SSID       : "HP-Print-ef-LaserJet 400 color" 
+    First      : Fri Apr 21 12:44:27 2017
+    Last       : Fri Apr 21 12:45:29 2017
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 7
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 7 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 7
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 7
+ Datasize   : 0
+ Last BSSTS : Apr  3 13:28:50
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 7 packets
+              Fri Apr 21 12:45:29 2017
+ Client 1: MAC 7C:E9:D3:97:C3:EF
+  Manuf      : HonHaiPr
+  First      : Fri Apr 21 12:44:27 2017
+  Last       : Fri Apr 21 12:45:29 2017
+  Type       : From Distribution
+  MAC        : 7C:E9:D3:97:C3:EF
+  Channel    : 6
+  Frequency  : 2437 - 7 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 7
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 7
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 7 packets
+               Fri Apr 21 12:45:29 2017
+Network 48: BSSID 84:3A:4B:C8:3C:F4
+ Manuf      : IntelCor
+ First      : Fri Apr 21 12:44:45 2017
+ Last       : Fri Apr 21 12:44:45 2017
+ Type       : probe
+ BSSID      : 84:3A:4B:C8:3C:F4
+ Channel    : 0
+ Frequency  : 2422 - 2 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:44:45
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+              Fri Apr 21 12:44:45 2017
+ Client 1: MAC 84:3A:4B:C8:3C:F4
+  Manuf      : IntelCor
+  First      : Fri Apr 21 12:44:45 2017
+  Last       : Fri Apr 21 12:44:45 2017
+  Type       : To Distribution
+  MAC        : 84:3A:4B:C8:3C:F4
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:44:45 2017
+    Last       : Fri Apr 21 12:44:45 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2422 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:44:45 2017
+Network 49: BSSID 84:78:AC:F1:13:92
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:22 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : 84:78:AC:F1:13:92
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    Info       : ap19l-1metrotec
+    First      : Fri Apr 21 12:44:22 2017
+    Last       : Fri Apr 21 12:45:43 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 22
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 11
+ Frequency  : 2462 - 22 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 22
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 22
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:58:24
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 22 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC 84:78:AC:F1:13:92
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:22 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : From Distribution
+  MAC        : 84:78:AC:F1:13:92
+  Channel    : 11
+  Frequency  : 2462 - 22 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 22
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 22
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 22 packets
+               Fri Apr 21 12:45:43 2017
+Network 50: BSSID 84:78:AC:F1:13:93
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:23 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : 84:78:AC:F1:13:93
+   SSID 1
+    Type       : Probe Response
+    SSID       : "nyu-legacy" 
+    Info       : ap19l-1metrotec
+    First      : Fri Apr 21 12:44:23 2017
+    Last       : Fri Apr 21 12:45:43 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 23
+    WPS        : No
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 11
+ Frequency  : 2462 - 24 packets, 100.00%
+ Max Seen   : 24000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 23
+ Data       : 1
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 24
+ Datasize   : 24
+ Last BSSTS : Apr 11 15:58:24
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 24 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC 54:27:1E:48:2A:A0
+  Manuf      : Azurewav
+  First      : Fri Apr 21 12:45:08 2017
+  Last       : Fri Apr 21 12:45:08 2017
+  Type       : To Distribution
+  MAC        : 54:27:1E:48:2A:A0
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 24000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 1
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 24
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:08 2017
+ Client 2: MAC 84:78:AC:F1:13:93
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:23 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : Unknown
+  MAC        : 84:78:AC:F1:13:93
+  Channel    : 11
+  Frequency  : 2462 - 23 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 23
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 23
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 23 packets
+               Fri Apr 21 12:45:43 2017
+Network 51: BSSID 84:78:AC:F1:13:96
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:22 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : 84:78:AC:F1:13:96
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyuguest-legacy" 
+    Info       : ap19l-1metrotec
+    First      : Fri Apr 21 12:44:22 2017
+    Last       : Fri Apr 21 12:45:43 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 29
+    WPS        : No
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 29 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 29
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 29
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:58:24
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 29 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC 84:78:AC:F1:13:96
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:22 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : From Distribution
+  MAC        : 84:78:AC:F1:13:96
+  Channel    : 11
+  Frequency  : 2462 - 29 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 29
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 29
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 29 packets
+               Fri Apr 21 12:45:43 2017
+Network 52: BSSID 86:2A:A8:07:54:A1
+ Manuf      : Unknown
+ First      : Fri Apr 21 12:45:04 2017
+ Last       : Fri Apr 21 12:45:04 2017
+ Type       : infrastructure
+ BSSID      : 86:2A:A8:07:54:A1
+   SSID 1
+    Type       : Beacon
+    SSID       : "G&I AP" 
+    First      : Fri Apr 21 12:45:04 2017
+    Last       : Fri Apr 21 12:45:04 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 1
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : Jan  4 15:09:38
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+              Fri Apr 21 12:45:04 2017
+ Client 1: MAC 86:2A:A8:07:54:A1
+  Manuf      : Unknown
+  First      : Fri Apr 21 12:45:04 2017
+  Last       : Fri Apr 21 12:45:04 2017
+  Type       : From Distribution
+  MAC        : 86:2A:A8:07:54:A1
+  Channel    : 1
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:04 2017
+Network 53: BSSID 8A:15:04:56:11:21
+ Manuf      : Unknown
+ First      : Fri Apr 21 12:44:26 2017
+ Last       : Fri Apr 21 12:45:35 2017
+ Type       : infrastructure
+ BSSID      : 8A:15:04:56:11:21
+   SSID 1
+    Type       : Beacon
+    SSID       : "Meraki Setup" 
+    First      : Fri Apr 21 12:44:26 2017
+    Last       : Fri Apr 21 12:45:35 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 7
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 7 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 7
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 7
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:39:40
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 7 packets
+              Fri Apr 21 12:45:35 2017
+ Client 1: MAC 8A:15:04:56:11:21
+  Manuf      : Unknown
+  First      : Fri Apr 21 12:44:26 2017
+  Last       : Fri Apr 21 12:45:35 2017
+  Type       : From Distribution
+  MAC        : 8A:15:04:56:11:21
+  Channel    : 6
+  Frequency  : 2437 - 7 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 7
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 7
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 7 packets
+               Fri Apr 21 12:45:35 2017
+Network 54: BSSID 8A:15:04:56:11:2F
+ Manuf      : Unknown
+ First      : Fri Apr 21 12:44:20 2017
+ Last       : Fri Apr 21 12:44:43 2017
+ Type       : infrastructure
+ BSSID      : 8A:15:04:56:11:2F
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Fri Apr 21 12:44:20 2017
+    Last       : Fri Apr 21 12:44:43 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 2
+    WPS        : No
+    Encryption : WEP
+ Channel    : 6
+ Frequency  : 2437 - 2 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:39:39
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+              Fri Apr 21 12:44:43 2017
+ Client 1: MAC 8A:15:04:56:11:2F
+  Manuf      : Unknown
+  First      : Fri Apr 21 12:44:20 2017
+  Last       : Fri Apr 21 12:44:43 2017
+  Type       : From Distribution
+  MAC        : 8A:15:04:56:11:2F
+  Channel    : 6
+  Frequency  : 2437 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:44:43 2017
+Network 55: BSSID 90:72:40:26:7A:B8
+ Manuf      : Apple
+ First      : Fri Apr 21 12:44:21 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : 90:72:40:26:7A:B8
+   SSID 1
+    Type       : Beacon
+    SSID       : "Northside Media Group" 
+    First      : Fri Apr 21 12:44:21 2017
+    Last       : Fri Apr 21 12:45:43 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 47
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 11
+ Frequency  : 2457 - 20 packets, 30.77%
+ Frequency  : 2462 - 45 packets, 69.23%
+ Max Seen   : 2000
+ LLC        : 47
+ Data       : 18
+ Crypt      : 16
+ Fragments  : 0
+ Retries    : 0
+ Total      : 65
+ Datasize   : 3065
+ Last BSSTS : Apr 13 09:57:23
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 65 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC 00:1E:C2:AA:0C:45
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:02 2017
+  Last       : Fri Apr 21 12:45:02 2017
+  Type       : From Distribution
+  MAC        : 00:1E:C2:AA:0C:45
+  Channel    : 0
+  Frequency  : 2462 - 2 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 184
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:02 2017
+ Client 2: MAC 00:25:64:F7:50:BF
+  Manuf      : Dell
+  First      : Fri Apr 21 12:45:08 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : From Distribution
+  MAC        : 00:25:64:F7:50:BF
+  Channel    : 0
+  Frequency  : 2462 - 2 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 188
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:43 2017
+ Client 3: MAC 08:6D:41:C8:BA:3A
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:29 2017
+  Last       : Fri Apr 21 12:44:35 2017
+  Type       : From Distribution
+  MAC        : 08:6D:41:C8:BA:3A
+  Channel    : 0
+  Frequency  : 2462 - 4 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 4
+  Crypt      : 4
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 623
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+               Fri Apr 21 12:44:35 2017
+ Client 4: MAC 34:36:3B:75:E2:24
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:38 2017
+  Last       : Fri Apr 21 12:44:38 2017
+  Type       : From Distribution
+  MAC        : 34:36:3B:75:E2:24
+  Channel    : 0
+  Frequency  : 2457 - 1 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 250
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:38 2017
+ Client 5: MAC 80:EA:96:E5:1F:DF
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:37 2017
+  Last       : Fri Apr 21 12:45:37 2017
+  Type       : From Distribution
+  MAC        : 80:EA:96:E5:1F:DF
+  Channel    : 0
+  Frequency  : 2462 - 2 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 662
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:37 2017
+ Client 6: MAC 90:72:40:26:7A:B8
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:21 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : From Distribution
+  MAC        : 90:72:40:26:7A:B8
+  Channel    : 11
+  Frequency  : 2457 - 17 packets, 34.69%
+  Frequency  : 2462 - 32 packets, 65.31%
+  Max Seen   : 1000
+  LLC        : 47
+  Data       : 2
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 49
+  Datasize   : 374
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 49 packets
+               Fri Apr 21 12:45:43 2017
+ Client 7: MAC 94:E9:6A:B0:89:28
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:21 2017
+  Last       : Fri Apr 21 12:44:51 2017
+  Type       : From Distribution
+  MAC        : 94:E9:6A:B0:89:28
+  Channel    : 0
+  Frequency  : 2457 - 1 packets, 33.33%
+  Frequency  : 2462 - 2 packets, 66.67%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 3
+  Crypt      : 3
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 413
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:44:51 2017
+ Client 8: MAC B8:E8:56:1A:A7:84
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:02 2017
+  Last       : Fri Apr 21 12:45:02 2017
+  Type       : From Distribution
+  MAC        : B8:E8:56:1A:A7:84
+  Channel    : 0
+  Frequency  : 2457 - 1 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 120
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:02 2017
+ Client 9: MAC EC:35:86:34:FD:06
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:35 2017
+  Last       : Fri Apr 21 12:44:35 2017
+  Type       : From Distribution
+  MAC        : EC:35:86:34:FD:06
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 251
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:35 2017
+Network 56: BSSID 90:CD:B6:A2:17:65
+ Manuf      : HonHaiPr
+ First      : Fri Apr 21 12:44:37 2017
+ Last       : Fri Apr 21 12:45:16 2017
+ Type       : infrastructure
+ BSSID      : 90:CD:B6:A2:17:65
+   SSID 1
+    Type       : Beacon
+    SSID       : "WIFIA21761" 
+    First      : Fri Apr 21 12:44:37 2017
+    Last       : Fri Apr 21 12:45:16 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 2
+    WPS        : Configured
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 2 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : Apr 18 04:23:38
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+              Fri Apr 21 12:45:16 2017
+ Client 1: MAC 90:CD:B6:A2:17:65
+  Manuf      : HonHaiPr
+  First      : Fri Apr 21 12:44:37 2017
+  Last       : Fri Apr 21 12:45:16 2017
+  Type       : From Distribution
+  MAC        : 90:CD:B6:A2:17:65
+  Channel    : 1
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:16 2017
+Network 57: BSSID A0:63:91:A0:63:53
+ Manuf      : Netgear
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : A0:63:91:A0:63:53
+   SSID 1
+    Type       : Beacon
+    SSID       : "FASTWIN-CONF2" 
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 26
+    WPS        : Locked
+    WPS Manuf  : NTGR
+    Dev Name   : WNDR4500v3(Wireless AP)
+    Model Name : WNDR4500
+    Model Num  : V3
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 26 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 26
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 26
+ Datasize   : 0
+ Last BSSTS : Apr 17 10:30:59
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 26 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC A0:63:91:A0:63:53
+  Manuf      : Netgear
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : A0:63:91:A0:63:53
+  Channel    : 1
+  Frequency  : 2412 - 26 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 26
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 26
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 26 packets
+               Fri Apr 21 12:45:38 2017
+Network 58: BSSID B0:DF:3A:05:F6:B1
+ Manuf      : SamsungE
+ First      : Fri Apr 21 12:44:39 2017
+ Last       : Fri Apr 21 12:44:39 2017
+ Type       : probe
+ BSSID      : B0:DF:3A:05:F6:B1
+ Channel    : 0
+ Frequency  : 2422 - 2 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:44:39
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+              Fri Apr 21 12:44:39 2017
+ Client 1: MAC B0:DF:3A:05:F6:B1
+  Manuf      : SamsungE
+  First      : Fri Apr 21 12:44:39 2017
+  Last       : Fri Apr 21 12:44:39 2017
+  Type       : To Distribution
+  MAC        : B0:DF:3A:05:F6:B1
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:44:39 2017
+    Last       : Fri Apr 21 12:44:39 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2422 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:44:39 2017
+Network 59: BSSID B8:27:EB:90:30:2F
+ Manuf      : Raspberr
+ First      : Fri Apr 21 12:45:03 2017
+ Last       : Fri Apr 21 12:45:03 2017
+ Type       : probe
+ BSSID      : B8:27:EB:90:30:2F
+ Channel    : 0
+ Frequency  : 2447 - 10 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 10
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 10
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:03
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 10 packets
+              Fri Apr 21 12:45:03 2017
+ Client 1: MAC B8:27:EB:90:30:2F
+  Manuf      : Raspberr
+  First      : Fri Apr 21 12:45:03 2017
+  Last       : Fri Apr 21 12:45:03 2017
+  Type       : To Distribution
+  MAC        : B8:27:EB:90:30:2F
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:45:03 2017
+    Last       : Fri Apr 21 12:45:03 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2447 - 10 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 10
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 10
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 10 packets
+               Fri Apr 21 12:45:03 2017
+Network 60: BSSID C0:EE:FB:DB:61:A4
+ Manuf      : OneplusT
+ First      : Fri Apr 21 12:44:39 2017
+ Last       : Fri Apr 21 12:44:40 2017
+ Type       : probe
+ BSSID      : C0:EE:FB:DB:61:A4
+ Channel    : 0
+ Frequency  : 2422 - 4 packets, 44.44%
+ Frequency  : 2442 - 4 packets, 44.44%
+ Frequency  : 2462 - 1 packets, 11.11%
+ Max Seen   : 1000
+ LLC        : 9
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 9
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:44:40
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 9 packets
+              Fri Apr 21 12:44:40 2017
+ Client 1: MAC C0:EE:FB:DB:61:A4
+  Manuf      : OneplusT
+  First      : Fri Apr 21 12:44:39 2017
+  Last       : Fri Apr 21 12:44:40 2017
+  Type       : To Distribution
+  MAC        : C0:EE:FB:DB:61:A4
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:44:40 2017
+    Last       : Fri Apr 21 12:44:40 2017
+    Max Rate   : 135.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2422 - 4 packets, 44.44%
+  Frequency  : 2442 - 4 packets, 44.44%
+  Frequency  : 2462 - 1 packets, 11.11%
+  Max Seen   : 1000
+  LLC        : 9
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 9
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 9 packets
+               Fri Apr 21 12:44:40 2017
+Network 61: BSSID C4:85:08:AC:11:B0
+ Manuf      : IntelCor
+ First      : Fri Apr 21 12:45:06 2017
+ Last       : Fri Apr 21 12:45:06 2017
+ Type       : probe
+ BSSID      : C4:85:08:AC:11:B0
+ Channel    : 0
+ Frequency  : 2417 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:06
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+              Fri Apr 21 12:45:06 2017
+ Client 1: MAC C4:85:08:AC:11:B0
+  Manuf      : IntelCor
+  First      : Fri Apr 21 12:45:06 2017
+  Last       : Fri Apr 21 12:45:06 2017
+  Type       : To Distribution
+  MAC        : C4:85:08:AC:11:B0
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:45:06 2017
+    Last       : Fri Apr 21 12:45:06 2017
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2417 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:06 2017
+Network 62: BSSID CC:D5:39:27:9A:82
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:9A:82
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    Info       : ap19j-1metrotec
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 93
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 93 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 93
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 93
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:38:33
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 93 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC CC:D5:39:27:9A:82
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:9A:82
+  Channel    : 1
+  Frequency  : 2412 - 93 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 93
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 93
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 93 packets
+               Fri Apr 21 12:45:38 2017
+Network 63: BSSID CC:D5:39:27:9A:83
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:9A:83
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyu-legacy" 
+    Info       : ap19j-1metrotec
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 82
+    WPS        : No
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 1
+ Frequency  : 2412 - 82 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 82
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 82
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:38:33
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 82 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC CC:D5:39:27:9A:83
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:9A:83
+  Channel    : 1
+  Frequency  : 2412 - 82 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 82
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 82
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 82 packets
+               Fri Apr 21 12:45:38 2017
+Network 64: BSSID CC:D5:39:27:9A:86
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:9A:86
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyuguest-legacy" 
+    Info       : ap19j-1metrotec
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 93
+    WPS        : No
+    Encryption : None
+ Channel    : 1
+ Frequency  : 2412 - 93 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 93
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 93
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:38:33
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 93 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC CC:D5:39:27:9A:86
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:9A:86
+  Channel    : 1
+  Frequency  : 2412 - 93 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 93
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 93
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 93 packets
+               Fri Apr 21 12:45:38 2017
+Network 65: BSSID CC:D5:39:27:EB:B2
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:20 2017
+ Last       : Fri Apr 21 12:45:41 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:EB:B2
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    Info       : ap19m-1metrotec
+    First      : Fri Apr 21 12:44:20 2017
+    Last       : Fri Apr 21 12:45:41 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 43
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 43 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 43
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 43
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:58:39
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 43 packets
+              Fri Apr 21 12:45:41 2017
+ Client 1: MAC CC:D5:39:27:EB:B2
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:20 2017
+  Last       : Fri Apr 21 12:45:41 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:EB:B2
+  Channel    : 6
+  Frequency  : 2437 - 43 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 43
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 43
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 43 packets
+               Fri Apr 21 12:45:41 2017
+Network 66: BSSID CC:D5:39:27:EB:B3
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:20 2017
+ Last       : Fri Apr 21 12:45:40 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:EB:B3
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyu-legacy" 
+    Info       : ap19m-1metrotec
+    First      : Fri Apr 21 12:44:20 2017
+    Last       : Fri Apr 21 12:45:40 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 52
+    WPS        : No
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 6
+ Frequency  : 2437 - 52 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 52
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 52
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:58:39
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 52 packets
+              Fri Apr 21 12:45:40 2017
+ Client 1: MAC CC:D5:39:27:EB:B3
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:20 2017
+  Last       : Fri Apr 21 12:45:40 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:EB:B3
+  Channel    : 6
+  Frequency  : 2437 - 52 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 52
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 52
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 52 packets
+               Fri Apr 21 12:45:40 2017
+Network 67: BSSID CC:D5:39:27:EB:B6
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:21 2017
+ Last       : Fri Apr 21 12:45:41 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:EB:B6
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyuguest-legacy" 
+    Info       : ap19m-1metrotec
+    First      : Fri Apr 21 12:44:21 2017
+    Last       : Fri Apr 21 12:45:41 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 45
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 45 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 45
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 45
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:58:39
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 45 packets
+              Fri Apr 21 12:45:41 2017
+ Client 1: MAC CC:D5:39:27:EB:B6
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:21 2017
+  Last       : Fri Apr 21 12:45:41 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:EB:B6
+  Channel    : 6
+  Frequency  : 2437 - 45 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 45
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 45
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 45 packets
+               Fri Apr 21 12:45:41 2017
+Network 68: BSSID CC:D5:39:27:EC:92
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:23 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:EC:92
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    Info       : ap19r-1metrotec
+    First      : Fri Apr 21 12:44:23 2017
+    Last       : Fri Apr 21 12:45:43 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 26
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 11
+ Frequency  : 2462 - 26 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 26
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 26
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:38:41
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 26 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC CC:D5:39:27:EC:92
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:23 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:EC:92
+  Channel    : 11
+  Frequency  : 2462 - 26 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 26
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 26
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 26 packets
+               Fri Apr 21 12:45:43 2017
+Network 69: BSSID CC:D5:39:27:EC:93
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:22 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:EC:93
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyu-legacy" 
+    Info       : ap19r-1metrotec
+    First      : Fri Apr 21 12:44:22 2017
+    Last       : Fri Apr 21 12:45:43 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 29
+    WPS        : No
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 11
+ Frequency  : 2462 - 29 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 29
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 29
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:38:41
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 29 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC CC:D5:39:27:EC:93
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:22 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:EC:93
+  Channel    : 11
+  Frequency  : 2462 - 29 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 29
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 29
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 29 packets
+               Fri Apr 21 12:45:43 2017
+Network 70: BSSID CC:D5:39:27:EC:96
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:28 2017
+ Last       : Fri Apr 21 12:45:37 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:EC:96
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyuguest-legacy" 
+    Info       : ap19r-1metrotec
+    First      : Fri Apr 21 12:44:28 2017
+    Last       : Fri Apr 21 12:45:37 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 28
+    WPS        : No
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 28 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 28
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 28
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:38:40
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 28 packets
+              Fri Apr 21 12:45:37 2017
+ Client 1: MAC CC:D5:39:27:EC:96
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:28 2017
+  Last       : Fri Apr 21 12:45:37 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:EC:96
+  Channel    : 11
+  Frequency  : 2462 - 28 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 28
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 28
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 28 packets
+               Fri Apr 21 12:45:37 2017
+Network 71: BSSID CC:D5:39:27:EF:C2
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:20 2017
+ Last       : Fri Apr 21 12:45:35 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:EF:C2
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    Info       : ap19k-1metrotec
+    First      : Fri Apr 21 12:44:20 2017
+    Last       : Fri Apr 21 12:45:35 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 39
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 39 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 39
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 39
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:54:53
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 39 packets
+              Fri Apr 21 12:45:35 2017
+ Client 1: MAC CC:D5:39:27:EF:C2
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:20 2017
+  Last       : Fri Apr 21 12:45:35 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:EF:C2
+  Channel    : 6
+  Frequency  : 2437 - 39 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 39
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 39
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 39 packets
+               Fri Apr 21 12:45:35 2017
+Network 72: BSSID CC:D5:39:27:EF:C3
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:20 2017
+ Last       : Fri Apr 21 12:45:40 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:EF:C3
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyu-legacy" 
+    Info       : ap19k-1metrotec
+    First      : Fri Apr 21 12:44:20 2017
+    Last       : Fri Apr 21 12:45:40 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 32
+    WPS        : No
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 6
+ Frequency  : 2437 - 32 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 32
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 32
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:54:52
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 32 packets
+              Fri Apr 21 12:45:40 2017
+ Client 1: MAC CC:D5:39:27:EF:C3
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:20 2017
+  Last       : Fri Apr 21 12:45:40 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:EF:C3
+  Channel    : 6
+  Frequency  : 2437 - 32 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 32
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 32
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 32 packets
+               Fri Apr 21 12:45:40 2017
+Network 73: BSSID CC:D5:39:27:EF:C6
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:20 2017
+ Last       : Fri Apr 21 12:45:35 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:EF:C6
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyuguest-legacy" 
+    Info       : ap19k-1metrotec
+    First      : Fri Apr 21 12:44:20 2017
+    Last       : Fri Apr 21 12:45:35 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 37
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 37 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 37
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 37
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:54:52
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 37 packets
+              Fri Apr 21 12:45:35 2017
+ Client 1: MAC CC:D5:39:27:EF:C6
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:20 2017
+  Last       : Fri Apr 21 12:45:35 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:EF:C6
+  Channel    : 6
+  Frequency  : 2437 - 37 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 37
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 37
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 37 packets
+               Fri Apr 21 12:45:35 2017
+Network 74: BSSID CC:D5:39:27:F0:B2
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:F0:B2
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    Info       : ap19q-1metrotec
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 59
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 69 packets, 100.00%
+ Max Seen   : 24000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 59
+ Data       : 10
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 69
+ Datasize   : 240
+ Last BSSTS : Apr 11 15:43:31
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 69 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC 98:01:A7:B0:C9:93
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:47 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : To Distribution
+  MAC        : 98:01:A7:B0:C9:93
+  Channel    : 0
+  Frequency  : 2412 - 10 packets, 100.00%
+  Max Seen   : 24000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 10
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 10
+  Datasize   : 240
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 10 packets
+               Fri Apr 21 12:45:38 2017
+ Client 2: MAC CC:D5:39:27:F0:B2
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:F0:B2
+  Channel    : 1
+  Frequency  : 2412 - 59 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 59
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 59
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 59 packets
+               Fri Apr 21 12:45:38 2017
+Network 75: BSSID CC:D5:39:27:F0:B3
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:F0:B3
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyu-legacy" 
+    Info       : ap19q-1metrotec
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 67
+    WPS        : No
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 1
+ Frequency  : 2412 - 126 packets, 98.44%
+ Frequency  : 2417 - 2 packets, 1.56%
+ Max Seen   : 54000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 67
+ Data       : 61
+ Crypt      : 45
+ Fragments  : 0
+ Retries    : 0
+ Total      : 128
+ Datasize   : 14182
+ Last BSSTS : Apr 11 15:43:30
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 128 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC 58:BF:EA:BF:1E:40
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:24 2017
+  Last       : Fri Apr 21 12:45:33 2017
+  Type       : From Distribution
+  MAC        : 58:BF:EA:BF:1E:40
+  Channel    : 0
+  Frequency  : 2412 - 45 packets, 100.00%
+  Max Seen   : 54000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 45
+  Crypt      : 45
+  Fragments  : 0
+  Retries    : 0
+  Total      : 45
+  Datasize   : 13798
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 45 packets
+               Fri Apr 21 12:45:33 2017
+ Client 2: MAC 74:DA:38:5C:68:2C
+  Manuf      : EdimaxTe
+  First      : Fri Apr 21 12:44:20 2017
+  Last       : Fri Apr 21 12:45:27 2017
+  Type       : To Distribution
+  MAC        : 74:DA:38:5C:68:2C
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 33.33%
+  Frequency  : 2417 - 2 packets, 66.67%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 3
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 72
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:45:27 2017
+ Client 3: MAC 98:01:A7:AD:9A:8D
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : To Distribution
+  MAC        : 98:01:A7:AD:9A:8D
+  Channel    : 0
+  Frequency  : 2412 - 13 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 13
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 13
+  Datasize   : 312
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 13 packets
+               Fri Apr 21 12:45:38 2017
+ Client 4: MAC CC:D5:39:27:F0:B3
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:F0:B3
+  Channel    : 1
+  Frequency  : 2412 - 67 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 67
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 67
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 67 packets
+               Fri Apr 21 12:45:38 2017
+Network 76: BSSID CC:D5:39:27:F0:B6
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:F0:B6
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyuguest-legacy" 
+    Info       : ap19q-1metrotec
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 60
+    WPS        : No
+    Encryption : None
+ Channel    : 1
+ Frequency  : 2412 - 60 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 60
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 60
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:43:30
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 60 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC CC:D5:39:27:F0:B6
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:F0:B6
+  Channel    : 1
+  Frequency  : 2412 - 60 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 60
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 60
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 60 packets
+               Fri Apr 21 12:45:38 2017
+Network 77: BSSID CC:D5:39:27:F2:42
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:F2:42
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    Info       : ap19p-1metrotec
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 63
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 63 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 63
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 63
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:39:38
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 63 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC CC:D5:39:27:F2:42
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:F2:42
+  Channel    : 1
+  Frequency  : 2412 - 63 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 63
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 63
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 63 packets
+               Fri Apr 21 12:45:38 2017
+Network 78: BSSID CC:D5:39:27:F2:43
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:F2:43
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyu-legacy" 
+    Info       : ap19p-1metrotec
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 57
+    WPS        : No
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 1
+ Frequency  : 2412 - 57 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 57
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 57
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:39:38
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 57 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC CC:D5:39:27:F2:43
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:F2:43
+  Channel    : 1
+  Frequency  : 2412 - 57 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 57
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 57
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 57 packets
+               Fri Apr 21 12:45:38 2017
+Network 79: BSSID CC:D5:39:27:F2:46
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:27:F2:46
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyuguest-legacy" 
+    Info       : ap19p-1metrotec
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 64
+    WPS        : No
+    Encryption : None
+ Channel    : 1
+ Frequency  : 2412 - 295 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ Encoding   : PBCC
+ LLC        : 64
+ Data       : 231
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 295
+ Datasize   : 70078
+ Last BSSTS : Apr 11 15:39:38
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 295 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC 20:10:7A:01:92:87
+  Manuf      : GemtekTe
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : To Distribution
+  MAC        : 20:10:7A:01:92:87
+  Channel    : 0
+  Frequency  : 2412 - 178 packets, 100.00%
+  Max Seen   : 0
+  Carrier    : IEEE 802.11b+
+  Encoding   : PBCC
+  LLC        : 0
+  Data       : 178
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 178
+  Datasize   : 14123
+  IP Type    : UDP/TCP
+  IP Block   : 172.30.30.202
+  IP Netmask : 0.0.0.0
+  IP Gateway : 0.0.0.0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 178 packets
+               Fri Apr 21 12:45:38 2017
+ Client 2: MAC 58:BF:EA:BF:1E:40
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:30 2017
+  Last       : Fri Apr 21 12:45:33 2017
+  Type       : From Distribution
+  MAC        : 58:BF:EA:BF:1E:40
+  Channel    : 0
+  Frequency  : 2412 - 53 packets, 100.00%
+  Max Seen   : 0
+  Carrier    : IEEE 802.11b+
+  Encoding   : PBCC
+  LLC        : 0
+  Data       : 53
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 53
+  Datasize   : 55955
+  IP Type    : UDP/TCP
+  IP Block   : 172.30.30.202
+  IP Netmask : 0.0.0.0
+  IP Gateway : 0.0.0.0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 53 packets
+               Fri Apr 21 12:45:33 2017
+ Client 3: MAC CC:D5:39:27:F2:46
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:27:F2:46
+  Channel    : 1
+  Frequency  : 2412 - 64 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 64
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 64
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 64 packets
+               Fri Apr 21 12:45:38 2017
+Network 80: BSSID CC:D5:39:5C:04:B2
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:20 2017
+ Last       : Fri Apr 21 12:45:41 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:5C:04:B2
+   SSID 1
+    Type       : Beacon
+    SSID       : "eduroam" 
+    Info       : ap19o-1metrotec
+    First      : Fri Apr 21 12:44:20 2017
+    Last       : Fri Apr 21 12:45:41 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 61
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 61 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 61
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 61
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:44:50
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 61 packets
+              Fri Apr 21 12:45:41 2017
+ Client 1: MAC CC:D5:39:5C:04:B2
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:20 2017
+  Last       : Fri Apr 21 12:45:41 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:5C:04:B2
+  Channel    : 6
+  Frequency  : 2437 - 61 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 61
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 61
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 61 packets
+               Fri Apr 21 12:45:41 2017
+Network 81: BSSID CC:D5:39:5C:04:B3
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:20 2017
+ Last       : Fri Apr 21 12:45:41 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:5C:04:B3
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyu-legacy" 
+    Info       : ap19o-1metrotec
+    First      : Fri Apr 21 12:44:20 2017
+    Last       : Fri Apr 21 12:45:41 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 80
+    WPS        : No
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 6
+ Frequency  : 2437 - 80 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 80
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 80
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:44:50
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 80 packets
+              Fri Apr 21 12:45:41 2017
+ Client 1: MAC CC:D5:39:5C:04:B3
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:20 2017
+  Last       : Fri Apr 21 12:45:41 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:5C:04:B3
+  Channel    : 6
+  Frequency  : 2437 - 80 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 80
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 80
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 80 packets
+               Fri Apr 21 12:45:41 2017
+Network 82: BSSID CC:D5:39:5C:04:B6
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:20 2017
+ Last       : Fri Apr 21 12:45:41 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:5C:04:B6
+   SSID 1
+    Type       : Beacon
+    SSID       : "nyuguest-legacy" 
+    Info       : ap19o-1metrotec
+    First      : Fri Apr 21 12:44:20 2017
+    Last       : Fri Apr 21 12:45:41 2017
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 68
+    WPS        : No
+    Encryption : None
+ Channel    : 6
+ Frequency  : 2437 - 68 packets, 100.00%
+ Max Seen   : 18000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 68
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 68
+ Datasize   : 0
+ Last BSSTS : Apr 11 15:44:50
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 68 packets
+              Fri Apr 21 12:45:41 2017
+ Client 1: MAC CC:D5:39:5C:04:B6
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:20 2017
+  Last       : Fri Apr 21 12:45:41 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:5C:04:B6
+  Channel    : 6
+  Frequency  : 2437 - 68 packets, 100.00%
+  Max Seen   : 18000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 68
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 68
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 68 packets
+               Fri Apr 21 12:45:41 2017
+Network 83: BSSID CC:D5:39:BB:F0:C3
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:38 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:BB:F0:C3
+   SSID 1
+    Type       : Beacon
+    SSID       : "ImpreMedia" 
+    Info       : NY-IM-WAP-04
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:38 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 33
+    WPS        : No
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 82 packets, 98.80%
+ Frequency  : 2417 - 1 packets, 1.20%
+ Max Seen   : 11000
+ LLC        : 33
+ Data       : 50
+ Crypt      : 50
+ Fragments  : 0
+ Retries    : 0
+ Total      : 83
+ Datasize   : 6921
+ Last BSSTS : Jun 27 13:41:06
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 83 packets
+              Fri Apr 21 12:45:38 2017
+ Client 1: MAC 00:00:0C:07:AC:65
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:45:21 2017
+  Last       : Fri Apr 21 12:45:21 2017
+  Type       : From Distribution
+  MAC        : 00:00:0C:07:AC:65
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 100
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:21 2017
+ Client 2: MAC 00:14:22:1A:56:B6
+  Manuf      : Dell
+  First      : Fri Apr 21 12:44:58 2017
+  Last       : Fri Apr 21 12:44:58 2017
+  Type       : From Distribution
+  MAC        : 00:14:22:1A:56:B6
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 196
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:44:58 2017
+ Client 3: MAC 00:14:5E:67:89:FF
+  Manuf      : Ibm
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:11 2017
+  Type       : From Distribution
+  MAC        : 00:14:5E:67:89:FF
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 196
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:11 2017
+ Client 4: MAC 00:16:C8:C9:DA:0B
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:45:16 2017
+  Last       : Fri Apr 21 12:45:16 2017
+  Type       : From Distribution
+  MAC        : 00:16:C8:C9:DA:0B
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 82
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:16 2017
+ Client 5: MAC 00:1A:A0:13:55:22
+  Manuf      : Dell
+  First      : Fri Apr 21 12:44:58 2017
+  Last       : Fri Apr 21 12:44:58 2017
+  Type       : From Distribution
+  MAC        : 00:1A:A0:13:55:22
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 196
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:44:58 2017
+ Client 6: MAC 0C:3E:9F:ED:40:6F
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:37 2017
+  Last       : Fri Apr 21 12:44:37 2017
+  Type       : From Distribution
+  MAC        : 0C:3E:9F:ED:40:6F
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 207
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:37 2017
+ Client 7: MAC 18:65:90:35:4A:CD
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:04 2017
+  Last       : Fri Apr 21 12:45:04 2017
+  Type       : From Distribution
+  MAC        : 18:65:90:35:4A:CD
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 622
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:04 2017
+ Client 8: MAC 20:A2:E4:CA:64:BE
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:04 2017
+  Type       : From Distribution
+  MAC        : 20:A2:E4:CA:64:BE
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 216
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:04 2017
+ Client 9: MAC 20:C9:D0:E6:16:3B
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:44:18 2017
+  Type       : From Distribution
+  MAC        : 20:C9:D0:E6:16:3B
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 98
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:18 2017
+ Client 10: MAC 28:5A:EB:04:8E:1C
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:21 2017
+  Last       : Fri Apr 21 12:45:21 2017
+  Type       : From Distribution
+  MAC        : 28:5A:EB:04:8E:1C
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 108
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:21 2017
+ Client 11: MAC 84:4B:F5:8A:D6:FF
+  Manuf      : HonHaiPr
+  First      : Fri Apr 21 12:45:16 2017
+  Last       : Fri Apr 21 12:45:16 2017
+  Type       : From Distribution
+  MAC        : 84:4B:F5:8A:D6:FF
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 220
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:16 2017
+ Client 12: MAC 90:B1:1C:60:DD:36
+  Manuf      : Dell
+  First      : Fri Apr 21 12:45:16 2017
+  Last       : Fri Apr 21 12:45:21 2017
+  Type       : From Distribution
+  MAC        : 90:B1:1C:60:DD:36
+  Channel    : 0
+  Frequency  : 2412 - 3 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 3
+  Crypt      : 3
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 502
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:45:21 2017
+ Client 13: MAC B4:18:D1:06:AD:C7
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:30 2017
+  Last       : Fri Apr 21 12:45:21 2017
+  Type       : From Distribution
+  MAC        : B4:18:D1:06:AD:C7
+  Channel    : 0
+  Frequency  : 2412 - 5 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 5
+  Crypt      : 5
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 718
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+               Fri Apr 21 12:45:21 2017
+ Client 14: MAC B8:CA:3A:92:F7:C8
+  Manuf      : Dell
+  First      : Fri Apr 21 12:44:58 2017
+  Last       : Fri Apr 21 12:44:58 2017
+  Type       : From Distribution
+  MAC        : B8:CA:3A:92:F7:C8
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 254
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:58 2017
+ Client 15: MAC B8:CA:3A:A5:02:9F
+  Manuf      : Dell
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : B8:CA:3A:A5:02:9F
+  Channel    : 0
+  Frequency  : 2412 - 12 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 12
+  Crypt      : 12
+  Fragments  : 0
+  Retries    : 0
+  Total      : 12
+  Datasize   : 1176
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 12 packets
+               Fri Apr 21 12:45:38 2017
+ Client 16: MAC BC:9F:EF:34:1E:54
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:04 2017
+  Last       : Fri Apr 21 12:45:04 2017
+  Type       : From Distribution
+  MAC        : BC:9F:EF:34:1E:54
+  Channel    : 0
+  Frequency  : 2412 - 3 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 3
+  Crypt      : 3
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 687
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:45:04 2017
+ Client 17: MAC CC:D5:39:BB:F0:C3
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:38 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:BB:F0:C3
+  Channel    : 1
+  Frequency  : 2412 - 32 packets, 96.97%
+  Frequency  : 2417 - 1 packets, 3.03%
+  Max Seen   : 1000
+  LLC        : 33
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 33
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 33 packets
+               Fri Apr 21 12:45:38 2017
+ Client 18: MAC D4:BE:D9:5B:67:63
+  Manuf      : Dell
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:44:18 2017
+  Type       : From Distribution
+  MAC        : D4:BE:D9:5B:67:63
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 98
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:18 2017
+ Client 19: MAC E0:DB:55:E4:30:E1
+  Manuf      : Dell
+  First      : Fri Apr 21 12:44:58 2017
+  Last       : Fri Apr 21 12:44:58 2017
+  Type       : From Distribution
+  MAC        : E0:DB:55:E4:30:E1
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 98
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:58 2017
+ Client 20: MAC F8:B1:56:DE:E1:42
+  Manuf      : Dell
+  First      : Fri Apr 21 12:44:30 2017
+  Last       : Fri Apr 21 12:44:37 2017
+  Type       : From Distribution
+  MAC        : F8:B1:56:DE:E1:42
+  Channel    : 0
+  Frequency  : 2412 - 9 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 9
+  Crypt      : 9
+  Fragments  : 0
+  Retries    : 0
+  Total      : 9
+  Datasize   : 1147
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 9 packets
+               Fri Apr 21 12:44:37 2017
+Network 84: BSSID CC:D5:39:BB:F0:C4
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:18 2017
+ Last       : Fri Apr 21 12:45:34 2017
+ Type       : infrastructure
+ BSSID      : CC:D5:39:BB:F0:C4
+   SSID 1
+    Type       : Beacon
+    SSID       : "ImpreGuest" 
+    Info       : NY-IM-WAP-04
+    First      : Fri Apr 21 12:44:18 2017
+    Last       : Fri Apr 21 12:45:34 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 34
+    WPS        : No
+    Encryption : None
+ Channel    : 1
+ Frequency  : 2412 - 32 packets, 94.12%
+ Frequency  : 2417 - 2 packets, 5.88%
+ Max Seen   : 1000
+ LLC        : 34
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 34
+ Datasize   : 0
+ Last BSSTS : Jun 27 13:41:06
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 34 packets
+              Fri Apr 21 12:45:34 2017
+ Client 1: MAC CC:D5:39:BB:F0:C4
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:18 2017
+  Last       : Fri Apr 21 12:45:34 2017
+  Type       : From Distribution
+  MAC        : CC:D5:39:BB:F0:C4
+  Channel    : 1
+  Frequency  : 2412 - 32 packets, 94.12%
+  Frequency  : 2417 - 2 packets, 5.88%
+  Max Seen   : 1000
+  LLC        : 34
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 34
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 34 packets
+               Fri Apr 21 12:45:34 2017
+Network 85: BSSID CC:F3:A5:BB:77:89
+ Manuf      : ChiMeiCo
+ First      : Fri Apr 21 12:44:37 2017
+ Last       : Fri Apr 21 12:45:35 2017
+ Type       : probe
+ BSSID      : CC:F3:A5:BB:77:89
+ Channel    : 0
+ Frequency  : 2412 - 1 packets, 4.76%
+ Frequency  : 2417 - 2 packets, 9.52%
+ Frequency  : 2422 - 2 packets, 9.52%
+ Frequency  : 2427 - 1 packets, 4.76%
+ Frequency  : 2437 - 7 packets, 33.33%
+ Frequency  : 2447 - 2 packets, 9.52%
+ Frequency  : 2452 - 3 packets, 14.29%
+ Frequency  : 2457 - 3 packets, 14.29%
+ Max Seen   : 1000
+ LLC        : 21
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 21
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:35
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 21 packets
+              Fri Apr 21 12:45:35 2017
+ Client 1: MAC CC:F3:A5:BB:77:89
+  Manuf      : ChiMeiCo
+  First      : Fri Apr 21 12:44:37 2017
+  Last       : Fri Apr 21 12:45:35 2017
+  Type       : To Distribution
+  MAC        : CC:F3:A5:BB:77:89
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:45:35 2017
+    Last       : Fri Apr 21 12:45:35 2017
+    Max Rate   : 150.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 2
+    Type       : Probe Request
+    SSID       : nyu
+    First      : Fri Apr 21 12:45:34 2017
+    Last       : Fri Apr 21 12:45:34 2017
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 4.76%
+  Frequency  : 2417 - 2 packets, 9.52%
+  Frequency  : 2422 - 2 packets, 9.52%
+  Frequency  : 2427 - 1 packets, 4.76%
+  Frequency  : 2437 - 7 packets, 33.33%
+  Frequency  : 2447 - 2 packets, 9.52%
+  Frequency  : 2452 - 3 packets, 14.29%
+  Frequency  : 2457 - 3 packets, 14.29%
+  Max Seen   : 1000
+  LLC        : 21
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 21
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 21 packets
+               Fri Apr 21 12:45:35 2017
+Network 86: BSSID DA:A1:19:10:B2:59
+ Manuf      : Unknown
+ First      : Fri Apr 21 12:45:11 2017
+ Last       : Fri Apr 21 12:45:11 2017
+ Type       : probe
+ BSSID      : DA:A1:19:10:B2:59
+ Channel    : 0
+ Frequency  : 2432 - 6 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 6
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 6
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:11
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 6 packets
+              Fri Apr 21 12:45:11 2017
+ Client 1: MAC DA:A1:19:10:B2:59
+  Manuf      : Unknown
+  First      : Fri Apr 21 12:45:11 2017
+  Last       : Fri Apr 21 12:45:11 2017
+  Type       : To Distribution
+  MAC        : DA:A1:19:10:B2:59
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:45:11 2017
+    Last       : Fri Apr 21 12:45:11 2017
+    Max Rate   : 300.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2432 - 6 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 6
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 6
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 6 packets
+               Fri Apr 21 12:45:11 2017
+Network 87: BSSID E4:B3:18:0A:6F:A4
+ Manuf      : IntelCor
+ First      : Fri Apr 21 12:44:21 2017
+ Last       : Fri Apr 21 12:45:23 2017
+ Type       : probe
+ BSSID      : E4:B3:18:0A:6F:A4
+ Channel    : 0
+ Frequency  : 2437 - 2 packets, 28.57%
+ Frequency  : 2442 - 1 packets, 14.29%
+ Frequency  : 2452 - 2 packets, 28.57%
+ Frequency  : 2457 - 2 packets, 28.57%
+ Max Seen   : 1000
+ LLC        : 7
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 7
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:23
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 7 packets
+              Fri Apr 21 12:45:23 2017
+ Client 1: MAC E4:B3:18:0A:6F:A4
+  Manuf      : IntelCor
+  First      : Fri Apr 21 12:44:21 2017
+  Last       : Fri Apr 21 12:45:23 2017
+  Type       : To Distribution
+  MAC        : E4:B3:18:0A:6F:A4
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:45:23 2017
+    Last       : Fri Apr 21 12:45:23 2017
+    Max Rate   : 300.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2437 - 2 packets, 28.57%
+  Frequency  : 2442 - 1 packets, 14.29%
+  Frequency  : 2452 - 2 packets, 28.57%
+  Frequency  : 2457 - 2 packets, 28.57%
+  Max Seen   : 1000
+  LLC        : 7
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 7
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 7 packets
+               Fri Apr 21 12:45:23 2017
+Network 88: BSSID E8:80:2E:D3:01:EB
+ Manuf      : Apple
+ First      : Fri Apr 21 12:45:24 2017
+ Last       : Fri Apr 21 12:45:24 2017
+ Type       : probe
+ BSSID      : E8:80:2E:D3:01:EB
+ Channel    : 0
+ Frequency  : 2457 - 5 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 5
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:24
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+              Fri Apr 21 12:45:24 2017
+ Client 1: MAC E8:80:2E:D3:01:EB
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:24 2017
+  Last       : Fri Apr 21 12:45:24 2017
+  Type       : To Distribution
+  MAC        : E8:80:2E:D3:01:EB
+   SSID 1
+    Type       : Probe Request
+    SSID       : nyu
+    First      : Fri Apr 21 12:45:24 2017
+    Last       : Fri Apr 21 12:45:24 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2457 - 5 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 5
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+               Fri Apr 21 12:45:24 2017
+Network 89: BSSID F4:0F:24:3B:60:90
+ Manuf      : Apple
+ First      : Fri Apr 21 12:44:26 2017
+ Last       : Fri Apr 21 12:44:42 2017
+ Type       : probe
+ BSSID      : F4:0F:24:3B:60:90
+ Channel    : 0
+ Frequency  : 2417 - 2 packets, 40.00%
+ Frequency  : 2432 - 1 packets, 20.00%
+ Frequency  : 2437 - 2 packets, 40.00%
+ Max Seen   : 1000
+ LLC        : 5
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:44:42
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+              Fri Apr 21 12:44:42 2017
+ Client 1: MAC F4:0F:24:3B:60:90
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:26 2017
+  Last       : Fri Apr 21 12:44:42 2017
+  Type       : To Distribution
+  MAC        : F4:0F:24:3B:60:90
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Apr 21 12:44:42 2017
+    Last       : Fri Apr 21 12:44:42 2017
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2417 - 2 packets, 40.00%
+  Frequency  : 2432 - 1 packets, 20.00%
+  Frequency  : 2437 - 2 packets, 40.00%
+  Max Seen   : 1000
+  LLC        : 5
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 5 packets
+               Fri Apr 21 12:44:42 2017
+Network 90: BSSID F4:B7:E2:61:F0:AA
+ Manuf      : HonHaiPr
+ First      : Fri Apr 21 12:45:08 2017
+ Last       : Fri Apr 21 12:45:37 2017
+ Type       : infrastructure
+ BSSID      : F4:B7:E2:61:F0:AA
+   SSID 1
+    Type       : Beacon
+    SSID       : "HP-Print-aa-LaserJet 200 color" 
+    First      : Fri Apr 21 12:45:08 2017
+    Last       : Fri Apr 21 12:45:37 2017
+    Max Rate   : 54.0
+    Beacon     : 10
+    Packets    : 2
+    WPS        : No
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2422 - 1 packets, 33.33%
+ Frequency  : 2462 - 2 packets, 66.67%
+ Max Seen   : 1000
+ LLC        : 3
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 0
+ Last BSSTS : Apr 21 12:45:26
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+              Fri Apr 21 12:45:37 2017
+ Client 1: MAC F4:B7:E2:61:F0:AA
+  Manuf      : HonHaiPr
+  First      : Fri Apr 21 12:45:08 2017
+  Last       : Fri Apr 21 12:45:37 2017
+  Type       : Established
+  MAC        : F4:B7:E2:61:F0:AA
+   SSID 1
+    Type       : Probe Request
+    SSID       : ImpreMedia
+    First      : Fri Apr 21 12:45:25 2017
+    Last       : Fri Apr 21 12:45:25 2017
+    Max Rate   : 72.2
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 11
+  Frequency  : 2422 - 1 packets, 33.33%
+  Frequency  : 2462 - 2 packets, 66.67%
+  Max Seen   : 1000
+  LLC        : 3
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:45:37 2017
+Network 91: BSSID F8:4F:57:E3:8F:F3
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:22 2017
+ Last       : Fri Apr 21 12:45:43 2017
+ Type       : infrastructure
+ BSSID      : F8:4F:57:E3:8F:F3
+   SSID 1
+    Type       : Beacon
+    SSID       : "ImpreMedia" 
+    Info       : NY-IM-WAP-03
+    First      : Fri Apr 21 12:44:22 2017
+    Last       : Fri Apr 21 12:45:37 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 30
+    WPS        : No
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 11
+ Frequency  : 2462 - 53 packets, 100.00%
+ Max Seen   : 11000
+ Carrier    : IEEE 802.11b+
+ Encoding   : PBCC
+ LLC        : 31
+ Data       : 22
+ Crypt      : 16
+ Fragments  : 0
+ Retries    : 0
+ Total      : 53
+ Datasize   : 4930
+ Last BSSTS : Nov 22 15:17:40
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 53 packets
+              Fri Apr 21 12:45:43 2017
+ Client 1: MAC 00:16:C8:C9:DA:45
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:45:21 2017
+  Last       : Fri Apr 21 12:45:21 2017
+  Type       : From Distribution
+  MAC        : 00:16:C8:C9:DA:45
+  Channel    : 0
+  Frequency  : 2462 - 2 packets, 100.00%
+  Max Seen   : 0
+  Carrier    : IEEE 802.11b+
+  Encoding   : PBCC
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 2128
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:21 2017
+ Client 2: MAC 00:17:0E:14:F5:45
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:40 2017
+  Last       : Fri Apr 21 12:44:40 2017
+  Type       : From Distribution
+  MAC        : 00:17:0E:14:F5:45
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 98
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:40 2017
+ Client 3: MAC 00:21:1B:F8:43:11
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:46 2017
+  Last       : Fri Apr 21 12:44:46 2017
+  Type       : From Distribution
+  MAC        : 00:21:1B:F8:43:11
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 82
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:46 2017
+ Client 4: MAC 84:4B:F5:8A:D6:E5
+  Manuf      : HonHaiPr
+  First      : Fri Apr 21 12:45:02 2017
+  Last       : Fri Apr 21 12:45:26 2017
+  Type       : Established
+  MAC        : 84:4B:F5:8A:D6:E5
+  Channel    : 0
+  Frequency  : 2462 - 3 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 3
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 261
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:45:26 2017
+ Client 5: MAC 90:B1:1C:A0:AB:61
+  Manuf      : Dell
+  First      : Fri Apr 21 12:45:02 2017
+  Last       : Fri Apr 21 12:45:02 2017
+  Type       : From Distribution
+  MAC        : 90:B1:1C:A0:AB:61
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 246
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:45:02 2017
+ Client 6: MAC 98:10:E8:9D:B7:30
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:29 2017
+  Last       : Fri Apr 21 12:45:21 2017
+  Type       : Established
+  MAC        : 98:10:E8:9D:B7:30
+  Channel    : 0
+  Frequency  : 2462 - 2 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 231
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:21 2017
+ Client 7: MAC C0:1A:DA:7E:BF:64
+  Manuf      : Apple
+  First      : Fri Apr 21 12:45:43 2017
+  Last       : Fri Apr 21 12:45:43 2017
+  Type       : From Distribution
+  MAC        : C0:1A:DA:7E:BF:64
+  Channel    : 0
+  Frequency  : 2462 - 2 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 268
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 2 packets
+               Fri Apr 21 12:45:43 2017
+ Client 8: MAC D4:BE:D9:5C:EF:15
+  Manuf      : Dell
+  First      : Fri Apr 21 12:44:35 2017
+  Last       : Fri Apr 21 12:44:46 2017
+  Type       : From Distribution
+  MAC        : D4:BE:D9:5C:EF:15
+  Channel    : 0
+  Frequency  : 2462 - 3 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 3
+  Crypt      : 3
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 676
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 3 packets
+               Fri Apr 21 12:44:46 2017
+ Client 9: MAC DC:37:14:48:14:80
+  Manuf      : Apple
+  First      : Fri Apr 21 12:44:35 2017
+  Last       : Fri Apr 21 12:44:35 2017
+  Type       : Established
+  MAC        : DC:37:14:48:14:80
+  Channel    : 0
+  Frequency  : 2462 - 4 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 4
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 368
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 4 packets
+               Fri Apr 21 12:44:35 2017
+ Client 10: MAC E8:2A:EA:35:FC:D2
+  Manuf      : IntelCor
+  First      : Fri Apr 21 12:44:46 2017
+  Last       : Fri Apr 21 12:44:46 2017
+  Type       : From Distribution
+  MAC        : E8:2A:EA:35:FC:D2
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 11000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 254
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 1 packets
+               Fri Apr 21 12:44:46 2017
+ Client 11: MAC F8:4F:57:E3:8F:F3
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:22 2017
+  Last       : Fri Apr 21 12:45:37 2017
+  Type       : From Distribution
+  MAC        : F8:4F:57:E3:8F:F3
+  Channel    : 11
+  Frequency  : 2462 - 33 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 31
+  Data       : 2
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 33
+  Datasize   : 318
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 33 packets
+               Fri Apr 21 12:45:37 2017
+Network 92: BSSID F8:4F:57:E3:8F:F4
+ Manuf      : Cisco
+ First      : Fri Apr 21 12:44:23 2017
+ Last       : Fri Apr 21 12:45:37 2017
+ Type       : infrastructure
+ BSSID      : F8:4F:57:E3:8F:F4
+   SSID 1
+    Type       : Beacon
+    SSID       : "ImpreGuest" 
+    Info       : NY-IM-WAP-03
+    First      : Fri Apr 21 12:44:23 2017
+    Last       : Fri Apr 21 12:45:37 2017
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 21
+    WPS        : No
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 21 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 21
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 21
+ Datasize   : 0
+ Last BSSTS : Nov 22 15:17:34
+    Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 21 packets
+              Fri Apr 21 12:45:37 2017
+ Client 1: MAC F8:4F:57:E3:8F:F4
+  Manuf      : Cisco
+  First      : Fri Apr 21 12:44:23 2017
+  Last       : Fri Apr 21 12:45:37 2017
+  Type       : From Distribution
+  MAC        : F8:4F:57:E3:8F:F4
+  Channel    : 11
+  Frequency  : 2462 - 21 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 21
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 21
+  Datasize   : 0
+     Seen By : wlan1 (wlan1mon) c260d4ec-26b1-11e7-a2c5-1004761ce301 21 packets
+               Fri Apr 21 12:45:37 2017

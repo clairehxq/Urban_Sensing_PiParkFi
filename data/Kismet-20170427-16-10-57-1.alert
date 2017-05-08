@@ -1,0 +1,2 @@
+Thu Apr 27 16:11:50 2017 ADHOCCONFLICT 0 00:06:66:22:86:34 40:F4:EC:44:55:66 FF:FF:FF:FF:FF:FF 00:00:00:00:00:00 Network BSSID 00:06:66:22:86:34 advertised as AP network, now advertising as Ad-Hoc IBSS, which may indicate AP spoofing/impersonation
+Thu Apr 27 16:18:39 2017 BCASTDISCON 0 00:06:66:22:86:34 00:06:66:22:86:34 FF:FF:FF:FF:FF:FF 00:00:00:00:00:00 Network BSSID 00:06:66:22:86:34 broadcast deauthenticate/disassociation of all clients, possible DoS
